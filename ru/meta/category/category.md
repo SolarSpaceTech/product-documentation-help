@@ -19,7 +19,7 @@ historyDescription: Мета-свойство category определяет се
 **Максимальное количество символов:** `18`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
 
 <br/>
 
