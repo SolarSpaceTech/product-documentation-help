@@ -21,7 +21,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 от основного содержания статьи и служит навигационным инструментом, позволяя пользователям быстро перемещаться между заголовками статьи. Оглавление
 облегчает ориентирование в содержании, особенно в длинных и детализированных статьях, улучшая общий пользовательский опыт.
 
-![Оглавление](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/table-of-contents.png)
+![Оглавление](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/table-of-contents.png)
 
 <br/>
 

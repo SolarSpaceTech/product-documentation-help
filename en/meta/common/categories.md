@@ -15,7 +15,7 @@ historyDescription: The meta-property categories defines the names and order of 
 **Data type:** List of strings
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/category.png)
+![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
 
 <br/>
 

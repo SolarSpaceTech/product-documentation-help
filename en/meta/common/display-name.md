@@ -15,7 +15,7 @@ historyDescription: The displayName meta property sets a brief title for the art
 **Data type:** String
 
 **Scope of influence:**
-![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/display-name.png)
+![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/display-name.png)
 
 
 <br/>

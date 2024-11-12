@@ -20,7 +20,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 Меню документации является одним из ключевых элементов пользовательского интерфейса. Оно предоставляет структуру и навигацию по разделам и статьям, позволяя
 пользователям легко находить и получать доступ к необходимой информации. Меню отображается в боковой панели и отражает иерархическую структуру документации.
 
-![Меню](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/menu.png)
+![Меню](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/menu.png)
 
 <br/>
 
@@ -38,9 +38,9 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 Меню документации настраивается с помощью следующих мета свойств, указанных в мета данных Markdown-файлов:
 
 - **`displayName`:** Определяет название раздела или статьи, отображаемое в меню и хлебных крошках.
-![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/display-name.png)
+![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/display-name.png)
 - **`order`:** Указывает порядок отображения разделов и статей в меню.
-![Влияние cвойства order](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/order.png)
+![Влияние cвойства order](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/order.png)
 - **`published`:** Управляет видимостью раздела или статьи в меню и навигации. Если установлено в `false`, элемент не отображается.
 
 <br/>

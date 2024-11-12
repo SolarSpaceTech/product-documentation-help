@@ -17,7 +17,7 @@ historyDescription: Мета-свойство historyDescription предост�
 **Максимальное количество символов:** `240`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-content/refs/heads/main/ru/markdown/images/history-description.png)
+![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-description.png)
 
 <br/>
 
