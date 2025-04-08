@@ -1,7 +1,7 @@
 ---
 id: 51
 displayName: languageIcon
-order: 72
+order: 20
 published: true
 historyName: Описание мета свойства languageIcon
 historyDescription: Мета-свойство languageIcon определяет путь до иконки языка, отображаемой в списке языков.
@@ -12,7 +12,7 @@ seoTitle: Описание languageIcon - Язык - Мета свойства
 
 **Мета свойство:** `languageIcon`
 
-**Тип данных:** `string` (URL)
+**Тип данных:** `Строка` (URL)
 
 **Возможные значения:** Относительный или абсолютный путь до изображения
 
