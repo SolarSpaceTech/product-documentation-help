@@ -29,6 +29,13 @@ seoTitle: Описание seoDescription - SEO - Мета свойства
 и отображается в сниппетах поисковых систем. Также оно влияет на предварительный просмотр страницы при её использовании
 в социальных сетях через `og:description` (Open Graph).
 
+В HTML это выражается следующим образом:
+
+```html
+<meta name="description" content="СОДЕРЖИМОЕ seoDescription">
+<meta name="og:description" content="СОДЕРЖИМОЕ seoDescription">
+```
+
 ### [Основные функции](basic-functions)
 
 - Обеспечивает краткое описание статьи для поисковых систем.
