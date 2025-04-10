@@ -22,6 +22,8 @@ seoTitle: Описание seoDescription - SEO - Мета свойства
 - содержимое атрибута `content` в HTML-теге `meta` с `name="description"`
 - содержимое атрибута `content` в HTML-теге `meta` с `name="og:description"`
 
+**Где указывать:** в корневом (языковом) файле `metadata.md` и в каждой отдельно взятой статье
+
 
 ## [Описание](description)
 
