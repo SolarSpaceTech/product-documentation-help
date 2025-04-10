@@ -84,4 +84,10 @@ categories:
   - Сервисы
   - Настройка ресурсов
 ---
+```
+
+В HTML-выходе:
+```html
+<meta name="yandex-verification" content="9d3b6a6c5dfd89d1">
+```
 
