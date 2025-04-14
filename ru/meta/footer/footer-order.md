@@ -1,6 +1,6 @@
 ---
 id: 39
-title: Описание footerOrder - Подвал - Мета свойства
+seoTitle: Описание footerOrder - Подвал - Мета свойства
 displayName: footerOrder
 order: 150
 published: true

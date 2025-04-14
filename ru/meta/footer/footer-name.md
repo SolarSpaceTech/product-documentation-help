@@ -1,11 +1,11 @@
 ---
 id: 38
-title: Описание footerName - Подвал - Мета свойства
 displayName: footerName
 order: 140
 published: true
 historyName: Описание мета свойства footerName
 historyDescription: Мета-свойство footerName задаёт название ссылки на статью, отображаемой в подвале документации для быстрого доступа к важным разделам.
+seoTitle: Описание footerName - Подвал - Мета свойства
 ---
 
 # Свойство footerName
