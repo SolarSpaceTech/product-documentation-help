@@ -1,6 +1,6 @@
 ---
 id: 35
-title: Описание categoryOrder - Разделы главной - Мета свойства
+seoTitle: Описание categoryOrder - Разделы главной - Мета свойства
 displayName: categoryOrder
 order: 100
 published: true
@@ -82,7 +82,7 @@ historyDescription: Мета-свойство categoryOrder задает пор�
 
 ```md
 ---
-title: Быстрый старт
+seoTitle: Быстрый старт
 displayName: Начало работы
 order: 1
 published: true
@@ -100,7 +100,7 @@ categoryIcon: /icons/quickstart.svg
 
 ```md
 ---
-title: Глубокое погружение
+seoTitle: Глубокое погружение
 displayName: Продвинутое использование
 order: 2
 published: true

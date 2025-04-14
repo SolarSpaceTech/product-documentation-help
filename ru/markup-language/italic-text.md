@@ -1,6 +1,6 @@
 ---
 id: 23
-title: Курсивный текст - Markdown-разметка
+seoTitle: Курсивный текст - Markdown-разметка
 displayName: Курсивный текст
 order: 70
 published: true

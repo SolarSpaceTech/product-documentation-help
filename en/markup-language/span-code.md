@@ -1,6 +1,6 @@
 ---
 id: 27
-title: Inline Highlighter - Markdown Markup
+seoTitle: Inline Highlighter - Markdown Markup
 displayName: Inline Highlighter
 order: 90
 published: true

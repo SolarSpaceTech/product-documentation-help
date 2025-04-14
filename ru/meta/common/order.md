@@ -130,7 +130,7 @@ published: true
 
   ```md
   ---
-  title: Установка продукта
+  seoTitle: Установка продукта
   displayName: Установка
   order: 1
   published: true
@@ -142,7 +142,7 @@ published: true
 
   ```md
   ---
-  title: Настройка продукта
+  seoTitle: Настройка продукта
   displayName: Настройка
   order: 2
   published: true
@@ -154,7 +154,7 @@ published: true
 
   ```md
   ---
-  title: Использование продукта
+  seoTitle: Использование продукта
   displayName: Использование
   order: 3
   published: true

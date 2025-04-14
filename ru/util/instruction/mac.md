@@ -1,6 +1,6 @@
 ---
 id: 48
-title: MacOS - Инструкция - Утилита
+seoTitle: MacOS - Инструкция - Утилита
 displayName: Для MacOS
 order: 10
 published: true

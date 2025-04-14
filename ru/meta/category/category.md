@@ -1,6 +1,6 @@
 ---
 id: 31
-title: Описание category - Разделы главной - Мета свойства
+seoTitle: Описание category - Разделы главной - Мета свойства
 displayName: category
 order: 70
 published: true
@@ -88,7 +88,7 @@ historyDescription: Мета-свойство category определяет се
 
 ```md
 ---
-title: Как начать работу с нашим сервисом
+seoTitle: Как начать работу с нашим сервисом
 displayName: Руководство для новичков
 order: 1
 published: true

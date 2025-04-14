@@ -1,6 +1,6 @@
 ---
 id: 31
-title: Description of category - Main sections - Meta properties
+seoTitle: Description of category - Main sections - Meta properties
 displayName: category
 order: 70
 published: true
@@ -81,7 +81,7 @@ The meta property `category` is key to managing the display of articles on the m
 
 ```md
 ---
-title: How to Get Started with Our Service
+seoTitle: How to Get Started with Our Service
 displayName: Beginner's Guide
 order: 1
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 4
-title: Breadcrumbs - Documentation Interface
+seoTitle: Breadcrumbs - Documentation Interface
 displayName: Breadcrumbs
 order: 50
 published: true
@@ -70,7 +70,7 @@ published: true
 
 ```md
 ---
-title: Product Installation
+seoTitle: Product Installation
 displayName: Installation
 order: 1
 published: true
@@ -124,7 +124,7 @@ published: true
 
 ```md
 ---
-title: Product Installation
+seoTitle: Product Installation
 displayName: Installation
 order: 1
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 3
-title: Creating Sections - File Structure
+seoTitle: Creating Sections - File Structure
 displayName: Creating Sections
 order: 10
 published: true
@@ -128,7 +128,7 @@ published: true
 ```md
 ---
 id: 100
-title: Example Article
+seoTitle: Example Article
 displayName: Example Article
 order: 10
 published: true

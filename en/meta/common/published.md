@@ -1,6 +1,6 @@
 ---
 id: 46
-title: Description of published - General - Meta properties
+seoTitle: Description of published - General - Meta properties
 displayName: published
 order: 50
 published: true
@@ -99,7 +99,7 @@ published: false
 
 ```md
 ---
-title: Future Features
+seoTitle: Future Features
 displayName: Future Features
 order: 10
 published: false

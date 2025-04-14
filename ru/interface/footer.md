@@ -1,6 +1,6 @@
 ---
 id: 6
-title: Подвал - Интерфейс документации
+seoTitle: Подвал - Интерфейс документации
 displayName: Подвал
 order: 30
 published: true
@@ -71,7 +71,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 ```md
 ---
-title: Начало работы
+seoTitle: Начало работы
 displayName: Введение
 order: 1
 published: true
@@ -128,7 +128,7 @@ headerOrder: 10
 
 ```md
 ---
-title: Начало работы
+seoTitle: Начало работы
 displayName: Как начать
 order: 1
 published: true
@@ -141,7 +141,7 @@ footerOrder: 10
 
 ```md
 ---
-title: Статьи
+seoTitle: Статьи
 displayName: Статьи
 order: 2
 published: true
@@ -154,7 +154,7 @@ footerOrder: 20
 
 ```md
 ---
-title: Вопросы
+seoTitle: Вопросы
 displayName: Вопросы
 order: 3
 published: true
@@ -167,7 +167,7 @@ footerOrder: 30
 
 ```md
 ---
-title: Скрытый раздел
+seoTitle: Скрытый раздел
 displayName: Скрытый раздел
 order: 4
 published: false
@@ -180,7 +180,7 @@ footerOrder: 40
 
 ```md
 ---
-title: Служба поддержки
+seoTitle: Служба поддержки
 displayName: Поддержка
 order: 5
 published: true
@@ -204,7 +204,7 @@ footerOrder: 50
 
 ```md
 ---
-title: Новые возможности версии 3.0
+seoTitle: Новые возможности версии 3.0
 displayName: Новые функции
 order: 4
 published: true

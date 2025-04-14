@@ -1,6 +1,6 @@
 ---
 id: 26
-title: Paragraph - Markdown markup
+seoTitle: Paragraph - Markdown markup
 displayName: Paragraph
 order: 20
 published: true

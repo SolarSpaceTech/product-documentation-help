@@ -1,6 +1,6 @@
 ---
 id: 13
-title: Ordered Lists
+seoTitle: Ordered Lists
 displayName: Ordered
 order: 20
 published: true

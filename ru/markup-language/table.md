@@ -1,6 +1,6 @@
 ---
 id: 28
-title: Таблицы - Markdown-разметка
+seoTitle: Таблицы - Markdown-разметка
 displayName: Таблицы
 order: 120
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 8
-title: Visit History - Documentation Interface
+seoTitle: Visit History - Documentation Interface
 displayName: Visit History
 order: 70
 published: true
@@ -42,7 +42,7 @@ The following meta properties are used to customize the visit history block in t
 ```md
 ---
 id: 1000
-title: User Management in the System
+seoTitle: User Management in the System
 displayName: User Management
 order: 4
 published: true
@@ -82,7 +82,7 @@ For each article, add the following properties to its metadata:
 
 ```md
 ---
-title: Administrator's Guide
+seoTitle: Administrator's Guide
 displayName: Administrator
 order: 5
 published: true
@@ -122,7 +122,7 @@ Generate the documentation and navigate to different articles to verify the corr
 ```md
 ---
 id: 1000
-title: User Management in the System
+seoTitle: User Management in the System
 displayName: User Management
 order: 4
 published: true
@@ -151,7 +151,7 @@ If the user has previously visited this page, the visit history block will displ
 ```md
 ---
 id: 1001
-title: Draft Feature
+seoTitle: Draft Feature
 displayName: Draft Feature
 order: 10
 published: false

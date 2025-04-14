@@ -1,6 +1,6 @@
 ---
 id: 32
-title: Описание categoryDescription - Разделы главной - Мета свойства
+seoTitle: Описание categoryDescription - Разделы главной - Мета свойства
 displayName: categoryDescription
 order: 90
 published: true
@@ -81,7 +81,7 @@ historyDescription: Мета-свойство categoryDescription задаёт �
 
 ```md
 ---
-title: Быстрый старт с нашим продуктом
+seoTitle: Быстрый старт с нашим продуктом
 displayName: Быстрый старт
 order: 1
 published: true
@@ -104,7 +104,7 @@ categoryIcon: /icons/quickstart.svg
 
 ```md
 ---
-title: Часто задаваемые вопросы
+seoTitle: Часто задаваемые вопросы
 displayName: FAQ
 order: 5
 published: true

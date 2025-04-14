@@ -1,6 +1,6 @@
 ---
 id: 49
-title: Windows - Инструкция - Утилита
+seoTitle: Windows - Инструкция - Утилита
 displayName: Для Windows
 order: 20
 published: true

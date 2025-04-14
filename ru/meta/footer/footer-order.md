@@ -90,7 +90,7 @@ historyDescription: Мета-свойство footerOrder определяет �
 
 ```md
 ---
-title: Начало работы
+seoTitle: Начало работы
 displayName: Введение
 order: 1
 published: true
@@ -106,7 +106,7 @@ footerOrder: 10
 
 ```md
 ---
-title: API Документация
+seoTitle: API Документация
 displayName: API
 order: 2
 published: true
@@ -122,7 +122,7 @@ footerOrder: 20
 
 ```md
 ---
-title: Поддержка
+seoTitle: Поддержка
 displayName: Поддержка
 order: 3
 published: true
@@ -148,7 +148,7 @@ footerOrder: 30
 
 ```md
 ---
-title: Блог
+seoTitle: Блог
 displayName: Блог
 order: 4
 published: true

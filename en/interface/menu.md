@@ -1,6 +1,6 @@
 ---
 id: 10
-title: Menu - Documentation Interface
+seoTitle: Menu - Documentation Interface
 displayName: Menu
 order: 40
 published: true
@@ -68,7 +68,7 @@ published: true
 
 ```md
 ---
-title: Product Installation
+seoTitle: Product Installation
 displayName: Installation
 order: 1
 published: true
@@ -131,7 +131,7 @@ published: true
 
 ```md
 ---
-title: Product Installation
+seoTitle: Product Installation
 displayName: Installation
 order: 1
 published: true

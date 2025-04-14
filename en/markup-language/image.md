@@ -1,6 +1,6 @@
 ---
 id: 21
-title: Images - Markdown Markup
+seoTitle: Images - Markdown Markup
 displayName: Images
 order: 110
 published: true

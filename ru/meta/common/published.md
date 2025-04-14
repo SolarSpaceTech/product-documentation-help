@@ -98,7 +98,7 @@ published: false
 
 ```md
 ---
-title: Будущие возможности
+seoTitle: Будущие возможности
 displayName: Будущие возможности
 order: 10
 published: false

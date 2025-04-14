@@ -1,6 +1,6 @@
 ---
 id: 48
-title: MacOS - Guide - Utility
+seoTitle: MacOS - Guide - Utility
 displayName: For MacOS
 order: 10
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 7
-title: Documentation Header - Documentation Interface
+seoTitle: Documentation Header - Documentation Interface
 displayName: Header
 order: 20
 published: true
@@ -70,7 +70,7 @@ Add the properties `headerName` and `headerOrder` to the metadata of the selecte
 
 ```md
 ---
-title: Getting Started
+seoTitle: Getting Started
 displayName: How to Begin
 order: 1
 published: true
@@ -127,7 +127,7 @@ After configuring the meta properties, check how the links are displayed in the 
 
 ```md
 ---
-title: Getting Started
+seoTitle: Getting Started
 displayName: Getting Started
 order: 1
 published: true
@@ -140,7 +140,7 @@ headerOrder: 10
 
 ```md
 ---
-title: Articles
+seoTitle: Articles
 displayName: Articles
 order: 2
 published: true
@@ -153,7 +153,7 @@ headerOrder: 20
 
 ```md
 ---
-title: Questions
+seoTitle: Questions
 displayName: Questions
 order: 3
 published: true
@@ -166,7 +166,7 @@ headerOrder: 30
 
 ```md
 ---
-title: Hidden Section
+seoTitle: Hidden Section
 displayName: Hidden Section
 order: 4
 published: false
@@ -179,7 +179,7 @@ headerOrder: 40
 
 ```md
 ---
-title: Support
+seoTitle: Support
 displayName: Support
 order: 5
 published: true
@@ -203,7 +203,7 @@ headerOrder: 50
 
 ```md
 ---
-title: New Features in Version 3.0
+seoTitle: New Features in Version 3.0
 displayName: New Features
 order: 4
 published: true

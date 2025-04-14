@@ -1,6 +1,6 @@
 ---
 id: 43
-title: Описание historyName - История - Мета свойства
+seoTitle: Описание historyName - История - Мета свойства
 displayName: historyName
 order: 50
 published: true
@@ -82,7 +82,7 @@ historyDescription: Мета-свойство historyName задаёт назв�
 
 ```md
 ---
-title: Руководство по установке
+seoTitle: Руководство по установке
 displayName: Установка
 order: 1
 published: true
@@ -101,7 +101,7 @@ historyDescription: Как быстро установить и настроит
 
 ```md
 ---
-title: Часто задаваемые вопросы
+seoTitle: Часто задаваемые вопросы
 displayName: FAQ
 order: 10
 published: true

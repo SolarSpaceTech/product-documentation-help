@@ -1,6 +1,6 @@
 ---
 id: 42
-title: Description of historyDescription - History - Meta property
+seoTitle: Description of historyDescription - History - Meta property
 displayName: historyDescription
 order: 60
 published: true
@@ -77,7 +77,7 @@ The `historyDescription` meta property is a useful tool for improving documentat
 
 ```md
 ---
-title: Installation Guide
+seoTitle: Installation Guide
 displayName: Installation
 order: 1
 published: true
@@ -97,7 +97,7 @@ In this section, you will learn how to install our software...
 
 ```md
 ---
-title: Frequently Asked Questions
+seoTitle: Frequently Asked Questions
 displayName: FAQ
 order: 10
 published: true

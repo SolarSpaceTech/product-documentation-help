@@ -1,6 +1,6 @@
 ---
 id: 17
-title: Description - Markdown markup
+seoTitle: Description - Markdown markup
 displayName: Description
 order: 1
 published: true

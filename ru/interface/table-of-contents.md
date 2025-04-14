@@ -1,6 +1,6 @@
 ---
 id: 11
-title: Оглавление - Интерфейс документации
+seoTitle: Оглавление - Интерфейс документации
 displayName: Оглавление
 order: 60
 published: true

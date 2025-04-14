@@ -1,6 +1,6 @@
 ---
 id: 33
-title: Описание categoryIcon - Разделы главной - Мета свойства
+seoTitle: Описание categoryIcon - Разделы главной - Мета свойства
 displayName: categoryIcon
 order: 110
 published: true
@@ -84,7 +84,7 @@ historyDescription: Мета-свойство categoryIcon добавляет и
 
 ```md
 ---
-title: Облачные решения
+seoTitle: Облачные решения
 displayName: Облако
 order: 2
 published: true
@@ -107,7 +107,7 @@ categoryIcon: /icons/cloud.svg
 
 ```md
 ---
-title: Контактная информация
+seoTitle: Контактная информация
 displayName: Контакты
 order: 5
 published: true

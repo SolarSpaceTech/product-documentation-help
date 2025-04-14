@@ -83,7 +83,7 @@ seoTitle: Описание id - Общее - Мета свойства
 ```markdown
 ---
 id: 42
-title: Руководство пользователя
+seoTitle: Руководство пользователя
 displayName: Руководство
 published: true
 historyName: Руководство
@@ -99,7 +99,7 @@ historyDescription: Описание руководства пользовате
 ```markdown
 ---
 id: 43
-title: Новое руководство пользователя
+seoTitle: Новое руководство пользователя
 displayName: Новое руководство
 published: true
 historyName: Новое руководство

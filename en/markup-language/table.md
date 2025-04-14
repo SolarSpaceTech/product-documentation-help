@@ -1,6 +1,6 @@
 ---
 id: 28
-title: Tables - Markdown Syntax
+seoTitle: Tables - Markdown Syntax
 displayName: Tables
 order: 120
 published: true

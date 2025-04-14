@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Description - Documentation Interface
+seoTitle: Description - Documentation Interface
 displayName: Description
 order: 1
 published: true

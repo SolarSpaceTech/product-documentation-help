@@ -1,6 +1,6 @@
 ---
 id: 15
-title: Block Code - Markdown Markup
+seoTitle: Block Code - Markdown Markup
 displayName: Block Code
 order: 100
 published: true

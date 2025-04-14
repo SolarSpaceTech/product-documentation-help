@@ -1,6 +1,6 @@
 ---
 id: 37
-title: displayName Description - General - Meta properties
+seoTitle: displayName Description - General - Meta properties
 displayName: displayName
 order: 30
 published: true
@@ -92,7 +92,7 @@ The `displayName` meta property is an important element in generating documentat
 
 ```md
 ---
-title: Setting Up Development Environment for the Project
+seoTitle: Setting Up Development Environment for the Project
 displayName: Setting Up Environment
 order: 2
 published: true
@@ -123,7 +123,7 @@ published: true
 
 ```md
 ---
-title: Product Installation - Step-by-Step Guide
+seoTitle: Product Installation - Step-by-Step Guide
 displayName: Installation
 order: 1
 published: true

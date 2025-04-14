@@ -1,6 +1,6 @@
 ---
 id: 42
-title: Описание historyDescription - История - Мета свойства
+seoTitle: Описание historyDescription - История - Мета свойства
 displayName: historyDescription
 order: 60
 published: true
@@ -82,7 +82,7 @@ historyDescription: Мета-свойство historyDescription предост�
 
 ```md
 ---
-title: Руководство по установке
+seoTitle: Руководство по установке
 displayName: Установка
 order: 1
 published: true
@@ -102,7 +102,7 @@ historyDescription: Узнайте, как установить наш прод�
 
 ```md
 ---
-title: Часто задаваемые вопросы
+seoTitle: Часто задаваемые вопросы
 displayName: FAQ
 order: 10
 published: true

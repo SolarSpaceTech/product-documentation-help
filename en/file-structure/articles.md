@@ -1,6 +1,6 @@
 ---
 id: 1
-title: Creating Articles - File Structure
+seoTitle: Creating Articles - File Structure
 displayName: Creating Articles
 order: 20
 published: true
@@ -38,7 +38,7 @@ the display of the article in various interface elements.
 ```markdown
 ---
 id: 42
-title: User Guide
+seoTitle: User Guide
 displayName: Guide
 order: 10
 published: true

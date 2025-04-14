@@ -1,6 +1,6 @@
 ---
 id: 2
-title: New Language - File Structure
+seoTitle: New Language - File Structure
 displayName: New Language
 order: 10
 published: true

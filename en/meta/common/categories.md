@@ -1,6 +1,6 @@
 ---
 id: 30
-title: Description of categories - General - Meta properties
+seoTitle: Description of categories - General - Meta properties
 displayName: categories
 order: 60
 published: true
@@ -111,7 +111,7 @@ File: `ru/documentation/start.md`
 ```markdown
 ---
 id: 1
-title: Start Page
+seoTitle: Start Page
 displayName: Start Page
 published: true
 order: 10
@@ -158,7 +158,7 @@ Article File: `en/documentation/start.md`
 ```markdown
 ---
 id: 1
-title: Start Page
+seoTitle: Start Page
 displayName: Start Page
 published: true
 order: 10

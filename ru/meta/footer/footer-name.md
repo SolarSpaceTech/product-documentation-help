@@ -87,7 +87,7 @@ seoTitle: Описание footerName - Подвал - Мета свойства
 
 ```md
 ---
-title: Начало работы с документацией
+seoTitle: Начало работы с документацией
 displayName: Введение
 order: 1
 published: true
@@ -108,7 +108,7 @@ footerOrder: 10
 
 ```md
 ---
-title: Детальные технические сведения
+seoTitle: Детальные технические сведения
 displayName: Технические детали
 order: 5
 published: true

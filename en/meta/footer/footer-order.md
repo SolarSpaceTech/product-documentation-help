@@ -1,6 +1,6 @@
 ---
 id: 39
-title: Description of footerOrder - Footer - Meta properties
+seoTitle: Description of footerOrder - Footer - Meta properties
 displayName: footerOrder
 order: 150
 published: true
@@ -86,7 +86,7 @@ The meta property `footerOrder` is a key tool for managing the order of links di
 
 ```md
 ---
-title: Getting Started
+seoTitle: Getting Started
 displayName: Introduction
 order: 1
 published: true
@@ -103,7 +103,7 @@ Welcome to our getting started guide...
 
 ```md
 ---
-title: API Documentation
+seoTitle: API Documentation
 displayName: API
 order: 2
 published: true
@@ -120,7 +120,7 @@ This section describes the available API methods...
 
 ```md
 ---
-title: Support
+seoTitle: Support
 displayName: Support
 order: 3
 published: true
@@ -147,7 +147,7 @@ If you have any questions, contact our support team...
 
 ```md
 ---
-title: Blog
+seoTitle: Blog
 displayName: Blog
 order: 4
 published: true

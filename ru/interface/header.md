@@ -1,6 +1,6 @@
 ---
 id: 7
-title: Шапка документации - Интерфейс документации
+seoTitle: Шапка документации - Интерфейс документации
 displayName: Шапка
 order: 20
 published: true
@@ -72,7 +72,7 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 
 ```md
 ---
-title: Начало работы
+seoTitle: Начало работы
 displayName: Как начать
 order: 1
 published: true
@@ -129,7 +129,7 @@ headerOrder: 10
 
 ```md
 ---
-title: Начало работы
+seoTitle: Начало работы
 displayName: Как начать
 order: 1
 published: true
@@ -142,7 +142,7 @@ headerOrder: 10
 
 ```md
 ---
-title: Статьи
+seoTitle: Статьи
 displayName: Статьи
 order: 2
 published: true

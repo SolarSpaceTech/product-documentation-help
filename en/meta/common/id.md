@@ -1,6 +1,6 @@
 ---
 id: 44
-title: Description of id - General - Meta properties
+seoTitle: Description of id - General - Meta properties
 displayName: id
 order: 10
 published: true
@@ -83,7 +83,7 @@ Article file: `ru/documentation/guide.md`
 ```markdown
 ---
 id: 42
-title: User Guide
+seoTitle: User Guide
 displayName: Guide
 published: true
 historyName: Guide
@@ -99,7 +99,7 @@ Article file: `ru/documentation/new-guide.md`
 ```markdown
 ---
 id: 43
-title: New User Guide
+seoTitle: New User Guide
 displayName: New Guide
 published: true
 historyName: New Guide

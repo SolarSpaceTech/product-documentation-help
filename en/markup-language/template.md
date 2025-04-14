@@ -1,5 +1,5 @@
 ---
-title: title
+seoTitle: title
 displayName: displayName
 order: 0
 published: false

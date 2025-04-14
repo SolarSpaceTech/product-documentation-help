@@ -1,6 +1,6 @@
 ---
 id: 2
-title: Новый язык - Файловая структура
+seoTitle: Новый язык - Файловая структура
 displayName: Новый язык
 order: 10
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 36
-title: Краткое описание - Мета свойств
+seoTitle: Краткое описание - Мета свойств
 displayName: Описание
 order: 1
 published: false

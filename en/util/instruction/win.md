@@ -1,6 +1,6 @@
 ---
 id: 49
-title: Windows - Guide - Utility
+seoTitle: Windows - Guide - Utility
 displayName: For Windows
 order: 20
 published: true

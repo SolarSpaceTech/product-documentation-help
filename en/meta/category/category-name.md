@@ -1,6 +1,6 @@
 ---
 id: 34
-title: Description of categoryName - Main Sections - Meta Properties
+seoTitle: Description of categoryName - Main Sections - Meta Properties
 displayName: categoryName
 order: 80
 published: true
@@ -50,7 +50,7 @@ Takes one of the values: `start`, `services`, `useful`, `faq`.
 
 - **Mandatory:** To display the article in a section on the main page, both `category` and `categoryName` must be specified.
 - **Absence of `categoryName`:** If `category` is specified but `categoryName` is missing, the value from `displayName` will be used for display.
-- **Uniqueness of the title:** It is recommended that `categoryName` be informative and unique within the section to avoid confusion.
+- **Uniqueness of the seoTitle:** It is recommended that `categoryName` be informative and unique within the section to avoid confusion.
 
 
 <br/>
@@ -80,7 +80,7 @@ most effectively and attractively to users visiting the documentation.
 
 ```md
 ---
-title: Complete Setup Guide
+seoTitle: Complete Setup Guide
 displayName: Setup Guide
 order: 5
 published: true

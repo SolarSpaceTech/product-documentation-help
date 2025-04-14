@@ -1,6 +1,6 @@
 ---
 id: 9
-title: Main Sections - Documentation Interface
+seoTitle: Main Sections - Documentation Interface
 displayName: Main Sections
 order: 10
 published: true
@@ -59,7 +59,7 @@ categories:
 
 ```md
 ---
-title: Quick Start
+seoTitle: Quick Start
 displayName: Getting Started
 order: 1
 published: true
@@ -107,7 +107,7 @@ Add the necessary meta properties in the `metadata.md` of the language section a
 
 ```md
 ---
-title: Deep Dive
+seoTitle: Deep Dive
 displayName: Advanced Usage
 order: 2
 published: true
@@ -156,7 +156,7 @@ After configuring the meta properties, check how the links are displayed on the 
 
 ```md
 ---
-title: Quick Start
+seoTitle: Quick Start
 displayName: Getting Started
 order: 1
 published: true
@@ -176,7 +176,7 @@ Welcome to the quick start guide...
 
 ```md
 ---
-title: Advanced Usage
+seoTitle: Advanced Usage
 displayName: Advanced Usage
 order: 1
 published: true
@@ -195,7 +195,7 @@ Welcome to the quick start guide...
 
 ```md
 ---
-title: Consulting
+seoTitle: Consulting
 displayName: Consulting
 order: 3
 published: true
@@ -215,7 +215,7 @@ We offer expert consultations in the field of...
 
 ```md
 ---
-title: Technical Support
+seoTitle: Technical Support
 displayName: Technical Support
 order: 3
 published: true
@@ -248,7 +248,7 @@ We offer expert consultations in the field of...
 
 ```md
 ---
-title: Drafts
+seoTitle: Drafts
 displayName: Drafts
 order: 99
 published: false

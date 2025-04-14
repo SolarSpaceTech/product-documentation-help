@@ -1,6 +1,6 @@
 ---
 id: 18
-title: Headings - Markdown Markup
+seoTitle: Headings - Markdown Markup
 displayName: Headings
 order: 10
 published: true

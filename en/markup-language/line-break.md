@@ -1,6 +1,6 @@
 ---
 id: 24
-title: Indentation - Markdown markup
+seoTitle: Indentation - Markdown markup
 displayName: Indentation
 order: 60
 published: true

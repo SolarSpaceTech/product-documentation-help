@@ -1,6 +1,6 @@
 ---
 id: 40
-title: Description of headerName - Header - Meta properties
+seoTitle: Description of headerName - Header - Meta properties
 displayName: headerName
 order: 120
 published: true
@@ -82,7 +82,7 @@ Proper use of `headerName` enhances the usability of the documentation and provi
 
 ```md
 ---
-title: Getting Started with Documentation
+seoTitle: Getting Started with Documentation
 displayName: Introduction
 order: 1
 published: true
@@ -104,7 +104,7 @@ Welcome to the guide on getting started with our documentation...
 
 ```md
 ---
-title: Detailed Technical Information
+seoTitle: Detailed Technical Information
 displayName: Technical Details
 order: 5
 published: true

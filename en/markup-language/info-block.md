@@ -1,6 +1,6 @@
 ---
 id: 22
-title: Information Blocks - Markdown Markup
+seoTitle: Information Blocks - Markdown Markup
 displayName: Information Blocks
 order: 130
 published: true

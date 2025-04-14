@@ -1,6 +1,6 @@
 ---
 id: 4
-title: Хлебные крошки - Интерфейс документации
+seoTitle: Хлебные крошки - Интерфейс документации
 displayName: Хлебные крошки
 order: 50
 published: true
@@ -71,7 +71,7 @@ published: true
 
 ```md
 ---
-title: Установка продукта
+seoTitle: Установка продукта
 displayName: Установка
 order: 1
 published: true
@@ -125,7 +125,7 @@ published: true
 
 ```md
 ---
-title: Установка продукта
+seoTitle: Установка продукта
 displayName: Установка
 order: 1
 published: true

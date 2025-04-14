@@ -1,6 +1,6 @@
 ---
 id: 45
-title: Description of order - General - Meta properties
+seoTitle: Description of order - General - Meta properties
 displayName: order
 order: 40
 published: true
@@ -131,7 +131,7 @@ published: true
 
   ```md
   ---
-  title: Product Installation
+  seoTitle: Product Installation
   displayName: Installation
   order: 1
   published: true
@@ -144,7 +144,7 @@ published: true
 
   ```md
   ---
-  title: Product Configuration
+  seoTitle: Product Configuration
   displayName: Configuration
   order: 2
   published: true
@@ -157,7 +157,7 @@ published: true
 
   ```md
   ---
-  title: Product Usage
+  seoTitle: Product Usage
   displayName: Usage
   order: 3
   published: true

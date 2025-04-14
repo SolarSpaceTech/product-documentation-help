@@ -1,6 +1,6 @@
 ---
 id: 19
-title: Separator - Markdown Markup
+seoTitle: Separator - Markdown Markup
 displayName: Separator
 order: 50
 published: true

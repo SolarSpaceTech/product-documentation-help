@@ -106,7 +106,7 @@ categories:
 ```markdown
 ---
 id: 1
-title: Стартовая страница
+seoTitle: Стартовая страница
 displayName: Стартовая страница
 published: true
 order: 10
@@ -152,7 +152,7 @@ categories:
 ```markdown
 ---
 id: 1
-title: Start Page
+seoTitle: Start Page
 displayName: Start Page
 published: true
 order: 10

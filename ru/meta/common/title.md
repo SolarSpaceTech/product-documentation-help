@@ -89,7 +89,7 @@ seoTitle: Описание title - Общее - Мета свойства
 
 ```md
 ---
-title: Установка программного обеспечения — Руководство по началу работы
+seoTitle: Установка программного обеспечения — Руководство по началу работы
 displayName: Установка ПО
 order: 1
 published: true
@@ -108,7 +108,7 @@ published: true
 
 ```md
 ---
-title: API Документация — Методы и Эндпоинты
+seoTitle: API Документация — Методы и Эндпоинты
 displayName: API Документация
 order: 5
 published: true

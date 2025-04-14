@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Описание - Интерфейс документации
+seoTitle: Описание - Интерфейс документации
 displayName: Описание
 order: 1
 published: true

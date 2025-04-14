@@ -1,6 +1,6 @@
 ---
 id: 33
-title: Description of categoryIcon - Main Sections - Meta Properties
+seoTitle: Description of categoryIcon - Main Sections - Meta Properties
 displayName: categoryIcon
 order: 110
 published: true
@@ -85,7 +85,7 @@ Proper use of icons makes the interface more intuitive and appealing.
 
 ```md
 ---
-title: Cloud Solutions
+seoTitle: Cloud Solutions
 displayName: Cloud
 order: 2
 published: true
@@ -108,7 +108,7 @@ In this example, **`categoryIcon`:** Specifies the path to the icon `/icons/clou
 
 ```md
 ---
-title: Contact Information
+seoTitle: Contact Information
 displayName: Contacts
 order: 5
 published: true

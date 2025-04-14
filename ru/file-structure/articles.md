@@ -1,6 +1,6 @@
 ---
 id: 1
-title: Создание статей - Файловая структура
+seoTitle: Создание статей - Файловая структура
 displayName: Создание статей
 order: 20
 published: true
@@ -38,7 +38,7 @@ historyDescription: Руководство по созданию статей с
 ```markdown
 ---
 id: 42
-title: Руководство пользователя
+seoTitle: Руководство пользователя
 displayName: Руководство
 order: 10
 published: true

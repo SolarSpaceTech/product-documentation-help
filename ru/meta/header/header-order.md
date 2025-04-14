@@ -1,6 +1,6 @@
 ---
 id: 41
-title: Описание headerOrder - Шапка - Мета свойства
+seoTitle: Описание headerOrder - Шапка - Мета свойства
 displayName: headerOrder
 order: 130
 published: true
@@ -85,7 +85,7 @@ historyDescription: Мета-свойство headerOrder определяет �
 
 ```md
 ---
-title: Начало работы
+seoTitle: Начало работы
 displayName: Введение
 order: 1
 published: true
@@ -101,7 +101,7 @@ headerOrder: 10
 
 ```md
 ---
-title: API Документация
+seoTitle: API Документация
 displayName: API
 order: 2
 published: true
@@ -117,7 +117,7 @@ headerOrder: 20
 
 ```md
 ---
-title: Поддержка
+seoTitle: Поддержка
 displayName: Поддержка
 order: 3
 published: true
@@ -143,7 +143,7 @@ headerOrder: 30
 
 ```md
 ---
-title: Блог
+seoTitle: Блог
 displayName: Блог
 order: 4
 published: true

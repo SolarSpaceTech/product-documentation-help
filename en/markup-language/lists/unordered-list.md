@@ -1,6 +1,6 @@
 ---
 id: 14
-title: Unordered Lists
+seoTitle: Unordered Lists
 displayName: Unordered
 order: 10
 published: true

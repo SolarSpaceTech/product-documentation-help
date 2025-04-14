@@ -1,6 +1,6 @@
 ---
 id: 32
-title: Description of categoryDescription - Main Sections - Meta Properties
+seoTitle: Description of categoryDescription - Main Sections - Meta Properties
 displayName: categoryDescription
 order: 90
 published: true
@@ -77,7 +77,7 @@ The `categoryDescription` meta property is an important tool for improving the p
 
 ```md
 ---
-title: Quick Start with Our Product
+seoTitle: Quick Start with Our Product
 displayName: Quick Start
 order: 1
 published: true
@@ -101,7 +101,7 @@ Welcome! In this guide, we will show you how to quickly set up and start working
 
 ```md
 ---
-title: Frequently Asked Questions
+seoTitle: Frequently Asked Questions
 displayName: FAQ
 order: 5
 published: true

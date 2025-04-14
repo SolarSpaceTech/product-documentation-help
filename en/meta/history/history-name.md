@@ -1,6 +1,6 @@
 ---
 id: 43
-title: Description of historyName - History - Meta properties
+seoTitle: Description of historyName - History - Meta properties
 displayName: historyName
 order: 50
 published: true
@@ -79,7 +79,7 @@ The `historyName` meta property is a useful tool for improving navigation in doc
 
 ```md
 ---
-title: Installation Guide
+seoTitle: Installation Guide
 displayName: Installation
 order: 1
 published: true
@@ -98,7 +98,7 @@ In this section, you will learn how to install our software...
 
 ```md
 ---
-title: Frequently Asked Questions
+seoTitle: Frequently Asked Questions
 displayName: FAQ
 order: 10
 published: true

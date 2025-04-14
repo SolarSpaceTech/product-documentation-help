@@ -1,6 +1,6 @@
 ---
 id: 34
-title: Описание categoryName - Разделы главной - Мета свойства
+seoTitle: Описание categoryName - Разделы главной - Мета свойства
 displayName: categoryName
 order: 80
 published: true
@@ -81,7 +81,7 @@ historyDescription: Мета-свойство categoryName задает назв
 
 ```md
 ---
-title: Полное руководство по настройке
+seoTitle: Полное руководство по настройке
 displayName: Руководство по настройке
 order: 5
 published: true

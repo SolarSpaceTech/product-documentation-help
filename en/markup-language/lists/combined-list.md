@@ -1,6 +1,6 @@
 ---
 id: 12
-title: Combined Lists
+seoTitle: Combined Lists
 displayName: Combined
 order: 30
 published: true

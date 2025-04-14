@@ -1,6 +1,6 @@
 ---
 id: 36
-title: Brief description - Meta properties
+seoTitle: Brief description - Meta properties
 displayName: Description
 order: 1
 published: true

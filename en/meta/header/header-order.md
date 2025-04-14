@@ -1,6 +1,6 @@
 ---
 id: 41
-title: Description of headerOrder - Header - Meta properties
+seoTitle: Description of headerOrder - Header - Meta properties
 displayName: headerOrder
 order: 130
 published: true
@@ -84,7 +84,7 @@ Proper use of this property allows for creating a logical and intuitive navigati
 
 ```md
 ---
-title: Getting Started
+seoTitle: Getting Started
 displayName: Introduction
 order: 1
 published: true
@@ -101,7 +101,7 @@ Welcome to our getting started guide...
 
 ```md
 ---
-title: API Documentation
+seoTitle: API Documentation
 displayName: API
 order: 2
 published: true
@@ -118,7 +118,7 @@ This section describes the available API methods...
 
 ```md
 ---
-title: Support
+seoTitle: Support
 displayName: Support
 order: 3
 published: true
@@ -145,7 +145,7 @@ If you have any questions, contact our support team...
 
 ```md
 ---
-title: Blog
+seoTitle: Blog
 displayName: Blog
 order: 4
 published: true

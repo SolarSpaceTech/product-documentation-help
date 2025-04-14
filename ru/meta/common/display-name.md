@@ -96,7 +96,7 @@ seoTitle: Описание displayName - Общее - Мета свойства
 
 ```md
 ---
-title: Настройка окружения разработки для проекта
+seoTitle: Настройка окружения разработки для проекта
 displayName: Настройка окружения
 order: 2
 published: true
@@ -127,7 +127,7 @@ published: true
 
 ```md
 ---
-title: Установка продукта — Пошаговое руководство
+seoTitle: Установка продукта — Пошаговое руководство
 displayName: Установка
 order: 1
 published: true

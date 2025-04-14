@@ -1,6 +1,6 @@
 ---
 id: 16
-title: Bold Text - Markdown Markup
+seoTitle: Bold Text - Markdown Markup
 displayName: Bold Text
 order: 80
 published: true

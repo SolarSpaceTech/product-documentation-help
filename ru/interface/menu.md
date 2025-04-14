@@ -1,6 +1,6 @@
 ---
 id: 10
-title: Меню - Интерфейс документации
+seoTitle: Меню - Интерфейс документации
 displayName: Меню
 order: 40
 published: true
@@ -77,7 +77,7 @@ published: true
 
 ```md
 ---
-title: Установка продукта
+seoTitle: Установка продукта
 displayName: Установка
 order: 1
 published: true

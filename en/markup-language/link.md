@@ -1,6 +1,6 @@
 ---
 id: 25
-title: Links - Markdown Markup
+seoTitle: Links - Markdown Markup
 displayName: Links
 order: 30
 published: true

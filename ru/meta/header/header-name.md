@@ -1,6 +1,6 @@
 ---
 id: 40
-title: Описание headerName - Шапка - Мета свойства
+seoTitle: Описание headerName - Шапка - Мета свойства
 displayName: headerName
 order: 120
 published: true
@@ -85,7 +85,7 @@ historyDescription: Мета-свойство headerName задаёт назва
 
 ```md
 ---
-title: Начало работы с документацией
+seoTitle: Начало работы с документацией
 displayName: Введение
 order: 1
 published: true
@@ -106,7 +106,7 @@ headerOrder: 10
 
 ```md
 ---
-title: Детальные технические сведения
+seoTitle: Детальные технические сведения
 displayName: Технические детали
 order: 5
 published: true

@@ -1,6 +1,6 @@
 ---
 id: 6
-title: Footer - Documentation Interface
+seoTitle: Footer - Documentation Interface
 displayName: Footer
 order: 30
 published: true
@@ -69,7 +69,7 @@ Add the properties `footerName` and `footerOrder` to the metadata of the selecte
 
 ```md
 ---
-title: Getting Started
+seoTitle: Getting Started
 displayName: Introduction
 order: 1
 published: true
@@ -128,7 +128,7 @@ After configuring the meta properties, check how the links are displayed on vari
 
 ```md
 ---
-title: Getting Started
+seoTitle: Getting Started
 displayName: How to Begin
 order: 1
 published: true
@@ -141,7 +141,7 @@ footerOrder: 10
 
 ```md
 ---
-title: Articles
+seoTitle: Articles
 displayName: Articles
 order: 2
 published: true
@@ -154,7 +154,7 @@ footerOrder: 20
 
 ```md
 ---
-title: Questions
+seoTitle: Questions
 displayName: Questions
 order: 3
 published: true
@@ -167,7 +167,7 @@ footerOrder: 30
 
 ```md
 ---
-title: Hidden Section
+seoTitle: Hidden Section
 displayName: Hidden Section
 order: 4
 published: false
@@ -180,7 +180,7 @@ footerOrder: 40
 
 ```md
 ---
-title: Support
+seoTitle: Support
 displayName: Support
 order: 5
 published: true
@@ -204,7 +204,7 @@ footerOrder: 50
 
 ```md
 ---
-title: New Features in Version 3.0
+seoTitle: New Features in Version 3.0
 displayName: New Features
 order: 4
 published: true

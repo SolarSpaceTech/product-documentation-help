@@ -1,6 +1,6 @@
 ---
 id: 29
-title: Variables - Markdown Markup
+seoTitle: Variables - Markdown Markup
 displayName: Variables
 order: 5
 published: true
@@ -92,7 +92,7 @@ Let's create a Markdown file `about.md` where we will use variables from the JSO
 
 ```md
 ---
-title: About {{ company.name }}
+seoTitle: About {{ company.name }}
 displayName: About Company
 order: 10
 published: true
@@ -140,7 +140,7 @@ After generation, the content of the `about.md` file will look as follows:
 
 ```md
 ---
-title: About Company Example
+seoTitle: About Company Example
 displayName: About Company
 order: 10
 published: true

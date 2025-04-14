@@ -1,6 +1,6 @@
 ---
 id: 11
-title: Table of Contents - Documentation Interface
+seoTitle: Table of Contents - Documentation Interface
 displayName: Table of Contents
 order: 60
 published: true

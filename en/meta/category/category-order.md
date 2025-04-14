@@ -1,6 +1,6 @@
 ---
 id: 35
-title: Description of categoryOrder - Main Sections - Meta Properties
+seoTitle: Description of categoryOrder - Main Sections - Meta Properties
 displayName: categoryOrder
 order: 100
 published: true
@@ -82,7 +82,7 @@ of this property contributes to effective content organization and enhances the 
 
 ```md
 ---
-title: Quick Start
+seoTitle: Quick Start
 displayName: Getting Started
 order: 1
 published: true
@@ -100,7 +100,7 @@ Welcome to the quick start guide...
 
 ```md
 ---
-title: Deep Dive
+seoTitle: Deep Dive
 displayName: Advanced Usage
 order: 2
 published: true

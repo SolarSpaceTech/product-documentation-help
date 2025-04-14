@@ -1,6 +1,6 @@
 ---
 id: 23
-title: Italic Text - Markdown Markup
+seoTitle: Italic Text - Markdown Markup
 displayName: Italic Text
 order: 70
 published: true

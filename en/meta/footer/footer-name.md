@@ -1,6 +1,6 @@
 ---
 id: 38
-title: Description of footerName - Footer - Meta properties
+seoTitle: Description of footerName - Footer - Meta properties
 displayName: footerName
 order: 140
 published: true
@@ -83,7 +83,7 @@ The `footerName` meta property is an important tool for customizing the document
 
 ```md
 ---
-title: Getting Started with Documentation
+seoTitle: Getting Started with Documentation
 displayName: Introduction
 order: 1
 published: true
@@ -105,7 +105,7 @@ Welcome to the guide on getting started with our documentation...
 
 ```md
 ---
-title: Detailed Technical Information
+seoTitle: Detailed Technical Information
 displayName: Technical Details
 order: 5
 published: true

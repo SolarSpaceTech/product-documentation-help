@@ -1,6 +1,6 @@
 ---
 id: 47
-title: Description title - General - Meta properties
+seoTitle: Description title - General - Meta properties
 displayName: title
 order: 20
 published: true
@@ -82,7 +82,7 @@ The `title` meta property is an important element in generating documentation. I
 
 ```md
 ---
-title: Software Installation - Getting Started Guide
+seoTitle: Software Installation - Getting Started Guide
 displayName: Software Installation
 order: 1
 published: true
@@ -102,7 +102,7 @@ In this section, you will learn how to install our software on your system...
 
 ```md
 ---
-title: API Documentation — Methods and Endpoints
+seoTitle: API Documentation — Methods and Endpoints
 displayName: API Documentation
 order: 5
 published: true
