@@ -1,7 +1,7 @@
 ---
 id: 66
 displayName: Шапка
-order: 30
+order: 50
 published: true
 historyName: Описание мета свойств шапки
 historyDescription: Мета-свойства шапки позволяют управлять отображением ключевых ссылок на статьи в верхней части сайта.

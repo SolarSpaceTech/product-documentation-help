@@ -1,7 +1,7 @@
 ---
 id: 64
 displayName: Общее
-order: 5
+order: 10
 published: true
 historyName: Описание общих мета свойств
 historyDescription: Общие мета-свойства задают базовые параметры отображения и поведения статьи в интерфейсе документации.

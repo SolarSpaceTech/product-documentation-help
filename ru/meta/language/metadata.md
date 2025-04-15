@@ -1,7 +1,7 @@
 ---
 id: 53
 displayName: Языки
-order: 30
+order: 70
 published: true
 historyName: Описание языковых мета-свойств
 historyDescription: Влияние языковых мета-свойств.

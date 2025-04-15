@@ -1,7 +1,7 @@
 ---
 id: 65
 displayName: Подвал
-order: 40
+order: 60
 published: true
 historyName: Описание мета свойств подвала
 historyDescription: Мета-свойства подвала позволяют управлять отображением ссылок на статьи в нижней части сайта.

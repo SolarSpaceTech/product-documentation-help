@@ -1,7 +1,7 @@
 ---
 id: 55  
 displayName: SEO
-order: 10  
+order: 30  
 published: true  
 historyName: SEO мета-свойства  
 historyDescription: Описание для SEO мета-свойств.  
