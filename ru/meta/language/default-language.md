@@ -5,7 +5,7 @@ order: 10
 published: true  
 historyName: Описание мета свойства defaultLanguage  
 historyDescription: Мета-свойство defaultLanguage определяет язык, где будет отсутствовать языковая часть в URL.  
-seoTitle: Описание defaultLanguage - Язык - Мета свойства
+seoTitle: Описание defaultLanguage - Языки - Мета свойства
 ---
 
 # Свойство defaultLanguage

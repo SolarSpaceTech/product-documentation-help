@@ -5,7 +5,7 @@ order: 30
 published: true
 historyName: Описание мета свойства languageOrder
 historyDescription: Мета-свойство languageOrder определяет порядок отображения языка в списке выбора языка.
-seoTitle: Описание languageOrder - Язык - Мета свойства
+seoTitle: Описание languageOrder - Языки - Мета свойства
 ---
 
 # Свойство languageOrder

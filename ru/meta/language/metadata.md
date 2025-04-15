@@ -1,11 +1,11 @@
 ---
 id: 53
-displayName: Языковые
+displayName: Языки
 order: 30
 published: true
 historyName: Описание языковых мета-свойств
 historyDescription: Влияние языковых мета-свойств.
-seoTitle: Языковые мета-свойства - Мета свойства
+seoTitle: Языки - Мета свойства
 ---
 
 # Языковые мета-свойства

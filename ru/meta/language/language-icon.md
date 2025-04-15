@@ -5,7 +5,7 @@ order: 20
 published: true
 historyName: Описание мета свойства languageIcon
 historyDescription: Мета-свойство languageIcon определяет путь до иконки языка, отображаемой в списке языков.
-seoTitle: Описание languageIcon - Язык - Мета свойства
+seoTitle: Описание languageIcon - Языки - Мета свойства
 ---
 
 # Свойство languageIcon
