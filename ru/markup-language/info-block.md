@@ -1,11 +1,11 @@
 ---
 id: 22
-title: Информационные блоки - Markdown-разметка
 displayName: Информационные блоки
 order: 130
 published: true
 historyName: Информационные блоки
 historyDescription: Использование в Markdown-разметки
+seoTitle: Информационные блоки - Markdown-разметка
 ---
 
 # Информационные блоки

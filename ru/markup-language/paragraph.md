@@ -1,18 +1,17 @@
 ---
 id: 26
-title: Абзац - Markdown-разметка
 displayName: Абзац
 order: 20
 published: true
 historyName: Абзац
 historyDescription: Использование в Markdown-разметки
+seoTitle: Абзац - Markdown-разметка
 ---
 
 # Абзац
 
 Для создания абзаца не требуется использования каких либо специальных символов. Для выделения абзаца достаточно его отделить пустыми строками сверху и снизу.
 
-<br/>
 
 ## Пример использования
 
@@ -27,7 +26,6 @@ voluptatem voluptatum!
 Commodi doloribus eos ipsum nulla optio soluta! Commodi dolore dolorum
 ducimus, nihil numquam obcaecati possimus similique ullam ut veniam vero voluptatem. At deleniti ex nulla pariatur placeat repellat saepe.
 ```
-<br/>
 
 ## Результат
 

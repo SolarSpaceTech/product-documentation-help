@@ -1,17 +1,16 @@
 ---
 id: 21
-title: Изображения - Markdown-разметка
 displayName: Изображения
 order: 110
 published: true
 historyName: Изображения
 historyDescription: Использование в Markdown-разметки
+seoTitle: Изображения - Markdown-разметка
 ---
 
 # Изображения
 В этом разделе рассмотрены изображения и как их использовать.
 
-<br/>
 
 ## Описание
 Для создания изображения используют синтаксис:
@@ -32,7 +31,6 @@ historyDescription: Использование в Markdown-разметки
 - `путь/до/изображение` это url до полной версии изображения;
 - `Скрытый текст изображения` это текст который будет показываться при наведении на изображение.
 
-<br/>
 
 ## Пример использования
 ```md
@@ -42,38 +40,32 @@ historyDescription: Использование в Markdown-разметки
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 ![image (25%|right)](https://placeholder.apptor.studio/1600/2500/product2.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image (25%|inline-left)](https://placeholder.apptor.studio/1600/2500/product3.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image (25%|left)](https://placeholder.apptor.studio/1600/2500/product4.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image (50%|center)](https://placeholder.apptor.studio/1600/2500/product5.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image](https://placeholder.apptor.studio/1600/2500/product6.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ```
 
-<br/>
 
 ## Результат
 
@@ -83,31 +75,26 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritat
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 ![image (25%|right)](https://placeholder.apptor.studio/1600/2500/product2.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image (25%|inline-left)](https://placeholder.apptor.studio/1600/2500/product3.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image (25%|left)](https://placeholder.apptor.studio/1600/2500/product4.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image (50%|center)](https://placeholder.apptor.studio/1600/2500/product5.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
-<br/>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ![image](https://placeholder.apptor.studio/1600/2500/product6.png "Some text")

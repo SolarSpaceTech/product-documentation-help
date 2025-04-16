@@ -1,17 +1,16 @@
 ---
 id: 15
-title: Блочный код - Markdown-разметка
 displayName: Блочный код
 order: 100
 published: true
 historyName: Блочный код
 historyDescription: Использование в Markdown-разметки
+seoTitle: Блочный код - Markdown-разметка
 ---
 
 # Блочный код
 В данном разделе приведён пример использования блочного кода.
 
-<br/>
 
 ## Описание
 
@@ -19,7 +18,6 @@ historyDescription: Использование в Markdown-разметки
   Для использования блочного кода код оборачивают в <code class="code-inline">```</code>
 </p>
 
-<br/>
 
 ## Пример использования
 
@@ -34,7 +32,6 @@ historyDescription: Использование в Markdown-разметки
 ```
 </code>
 
-<br/>
 
 ## Результат
 

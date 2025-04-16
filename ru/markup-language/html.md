@@ -1,17 +1,16 @@
 ---
 id: 20
-title: HTML - Markdown-разметка
 displayName: HTML
 order: 140
 published: true
 historyName: HTML
 historyDescription: Использование в Markdown-разметки
+seoTitle: HTML - Markdown-разметка
 ---
 
 # HTML
 В данном разделе описано использование HTML в markdown разметке.
 
-<br/>
 
 
 ## Описание
@@ -20,7 +19,6 @@ historyDescription: Использование в Markdown-разметки
 Например, если использовать стандартный HTML-тег изображения, то он не будет оформлен должным образом
 и будет нельзя запустить обозреватель изображения.
 
-<br/>
 
 
 ## Пример использования
@@ -46,7 +44,6 @@ historyDescription: Использование в Markdown-разметки
 <br>
 ```
 
-<br/>
 
 ## Результат
 

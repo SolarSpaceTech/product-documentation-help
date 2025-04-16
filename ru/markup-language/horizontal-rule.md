@@ -1,11 +1,11 @@
 ---
 id: 19
-title: Разделитель - Markdown-разметка
 displayName: Разделитель
 order: 50
 published: true
 historyName: Разделитель
 historyDescription: Использование в Markdown-разметки
+seoTitle: Разделитель - Markdown-разметка
 ---
 
 # Разделитель
@@ -14,7 +14,6 @@ historyDescription: Использование в Markdown-разметки
 ```md
 ---
 ```
-<br/>
 
 ## Пример использования
 
@@ -30,7 +29,6 @@ Commodi doloribus eos ipsum nulla optio soluta! Commodi dolore dolorum
 ducimus, nihil numquam obcaecati possimus similique ullam ut veniam vero voluptatem. At deleniti ex nulla pariatur placeat repellat saepe.
 ```
 
-<br/>
 
 ## Результат
 
