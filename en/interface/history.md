@@ -14,7 +14,6 @@ The documentation visit history is a user interface element that displays a list
 
 ![Visit History](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history.png)
 
-<br/>
 
 ## [Basic Functions](basic-functions)
 
@@ -24,7 +23,6 @@ The documentation visit history is a user interface element that displays a list
 - **Reduction of search time:** Decreases the time needed to find previously studied material, increasing the efficiency of using the documentation.
 - **Multitasking support:** Helps users work with multiple documentation sections simultaneously, easily switching between them.
 
-<br/>
 
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
@@ -55,7 +53,6 @@ historyDescription: How to add, delete, and edit users in the system
 This section describes methods for managing users...
 ```
 
-<br/>
 
 ## [Impact of Meta Properties](impact-of-meta-properties)
 
@@ -65,7 +62,6 @@ This section describes methods for managing users...
 - `published` controls the visibility of the article in all interface elements, including the visit history block. It allows hiding unpublished or temporarily
   unavailable articles without deleting them from the file structure.
 
-<br/>
 
 ## [Step-by-Step Setup Guide](step-by-step-setup-guide)
 
@@ -103,7 +99,6 @@ Ensure that all necessary meta properties are correctly specified and do not con
 
 Generate the documentation and navigate to different articles to verify the correct display.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -111,7 +106,6 @@ Generate the documentation and navigate to different articles to verify the corr
 - **Consistency:** Maintain a consistent writing style for titles and descriptions across all articles.
 - **Optimal Length:** Limit the length of `historyDescription` to 120 characters to avoid text truncation in the interface.
 
-<br/>
 
 ## [Usage examples](examples)
 
@@ -142,7 +136,6 @@ If the user has previously visited this page, the visit history block will displ
 - **Users**
 - _How to add, delete, and edit users in the system_
 
-<br/>
 
 ### Example 3: Hiding an article from the visit history
 

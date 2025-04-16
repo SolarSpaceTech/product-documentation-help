@@ -14,7 +14,6 @@ In this article, we will briefly discuss the process of creating articles for do
 with `*.md` files and their metadata. You will be able to effectively organize content, manage the display of user interface elements,
 and provide convenient navigation for users.
 
-<br/>
 
 ## File Structure
 
@@ -26,7 +25,6 @@ the hierarchy of sections and subsections of the documentation.
 - **Sections and Subsections**: organized as directories inside the language directory, each of which may contain its own `metadata.md`.
 - **Articles**: `.md` files located inside the respective section directories.
 
-<br/>
 
 ## Article Metadata
 
@@ -68,7 +66,6 @@ footerOrder: 10
 - `headerName` and `headerOrder`: display the link to the article in the site header.
 - `footerName` and `footerOrder`: display the link to the article in the site footer.
 
-<br/>
 
 ## Article Content
 
@@ -89,7 +86,6 @@ To begin, you need to create a language directory and describe the main page.
 <!-- Further steps description... -->
 ```
 
-<br/>
 
 ## Using Variables
 
@@ -117,7 +113,6 @@ Welcome to the company website Company example! Visit our website: https://compa
 Our partner: Deep company example (https://deep-company-example-domain.ru)
 ```
 
-<br/>
 
 ## Links and Navigation
 
@@ -135,7 +130,6 @@ Our partner: Deep company example (https://deep-company-example-domain.ru)
 [User Manual]([42])
 ```
 
-<br/>
 
 ## Conclusion
 

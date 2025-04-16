@@ -17,13 +17,11 @@ historyDescription: The historyDescription meta property provides a brief descri
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-description.png)
 
-<br/>
 
 ## [Description](description)
 
 The `historyDescription` meta property is used to provide a brief description of the article in the browsing history block. This block displays articles recently viewed by the user, providing quick access to previously read content. `historyDescription` complements `historyName`, providing additional context and helping users recall the content of the article.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -31,14 +29,12 @@ The `historyDescription` meta property is used to provide a brief description of
 - **Improving navigation:** Helps users find the necessary information faster, reminding them of the content of previously viewed articles.
 - **Personalizing the experience:** Allows customization of the displayed article description in the history independently of the main article content.
 
-<br/>
 
 ### [How It Works with Other Meta Properties](with-other-properties)
 
 - **With `historyName`:** `historyDescription` complements `historyName`, providing more complete information about the article in the browsing history block.
 - **With `title` and `displayName`:** While `title` and `displayName` define the names of the article in other parts of the interface, `historyDescription` provides a specific description for the browsing history.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -47,7 +43,6 @@ The `historyDescription` meta property is used to provide a brief description of
 - **Language and Style:** Use clear and simple language to effectively convey the essence of the article.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -55,7 +50,6 @@ The `historyDescription` meta property is used to provide a brief description of
 - **To attract attention:** A brief and concise description can encourage users to return to the article.
 - **To enhance user experience:** Providing additional information in the visit history makes navigation more convenient.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -63,13 +57,11 @@ The `historyDescription` meta property is used to provide a brief description of
 - **Be concise and informative:** Try to convey the main idea of the article in one or two sentences.
 - **Check the display:** Ensure that `historyDescription` is correctly displayed in the interface and is not truncated.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `historyDescription` meta property is a useful tool for improving documentation navigation. By providing a brief and informative description of articles in the visit history block, you make it easier for users to return to the necessary material and increase the efficiency of using your documentation.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -91,7 +83,6 @@ In this section, you will learn how to install our software...
 
 - **`historyDescription`:** "Learn how to install our product in a few steps" is displayed in the visit history block, providing a brief description of the article.
 
-<br/>
 
 ### Example 2: Article without `historyDescription` Specified
 

@@ -1,13 +1,11 @@
 # HTML
 In this section, the use of HTML in markdown markup is described.
 
-<br/>
 
 
 ## Description
 Almost any markup can be used as HTML, but it is worth considering that if it is possible to use the current engine for converting markdown to HTML, then it is worth using it. For example, if you use a standard HTML image tag, it will not be styled properly and you won't be able to launch the image viewer.
 
-<br/>
 
 
 ## Example of Use
@@ -33,7 +31,6 @@ Almost any markup can be used as HTML, but it is worth considering that if it is
 <br>
 ```
 
-<br/>
 
 ## Result
 

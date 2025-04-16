@@ -14,7 +14,6 @@ historyDescription: The meta property title displays the page title on the brows
 
 **Data type:** String
 
-<br/>
 
 ## [Description](description)
 
@@ -22,7 +21,6 @@ The meta property `title` is used to specify the text that will be displayed in 
 This property is particularly important in the context of generating documentation, as it helps users quickly determine the content of the current page and facilitates
 navigation between documentation sections.
 
-<br/>
 
 ### [Main functions](basic-functions)
 
@@ -32,7 +30,6 @@ especially when working with multiple open tabs.
 - **Support for bookmarks and browser history:** When saving a page to bookmarks or viewing visit history, `title` is used as the page title,
 making it easier to return to the desired documentation section.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -40,7 +37,6 @@ making it easier to return to the desired documentation section.
 - **`order`:** Specifies the display order of the article in the menu, but does not affect `title`.
 - **`published`:** Determines whether the article will be accessible to users, but does not affect `title`.
 
-<br/>
 
 ### [Important notes](notes)
 
@@ -49,7 +45,6 @@ making it easier to return to the desired documentation section.
 - **Uniqueness:** Each documentation section should have a unique `title` to avoid confusion.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -57,7 +52,6 @@ making it easier to return to the desired documentation section.
 - **For content clarification:** When it is necessary to describe the content of the page in more detail than `displayName` allows.
 - **For improved navigation:** Helps users quickly navigate through the numerous sections of the documentation.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -68,13 +62,11 @@ making it easier to return to the desired documentation section.
 - **Consider the audience:** Use clear and commonly accepted terms appropriate to the readers' level of expertise.
 - **Avoid duplication:** A unique `title` for each page will help users and search engines distinguish sections from each other.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `title` meta property is an important element in generating documentation. It helps users quickly understand the information contained on the current page and facilitates navigation through the documentation sections. A properly formulated `title` enhances usability and contributes to more effective learning of the materials.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -96,7 +88,6 @@ In this section, you will learn how to install our software on your system...
 - **`displayName`:** "Software Installation" will be shown in the menu and breadcrumbs, providing brevity and ease of navigation.
 
 
-<br/>
 
 ### Example 2: Article about API Documentation
 

@@ -14,7 +14,6 @@ The main sections of the documentation homepage are organized blocks of content 
 
 ![Main Sections of the Homepage](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/main-page-blocks.png)
 
-<br/>
 
 ## [Basic Functions](basic-functions)
 
@@ -24,7 +23,6 @@ The main sections of the documentation homepage are organized blocks of content 
 - **Content Priority:** By the display order, you can highlight the most important or current sections.
 - **Adaptability:** Sections are adapted for various devices, providing convenient access on both desktops and mobile devices.
 
-<br/>
 
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
@@ -75,7 +73,6 @@ categoryIcon: /icons/quickstart.svg
 Welcome to the quick start guide...```
 
 
-<br/>
 
 ## [Impact of Meta Properties](impact-of-meta-properties)
 
@@ -87,7 +84,6 @@ Welcome to the quick start guide...```
 - `categoryOrder` determines the display order of the article within the `Getting Started` section. `categoryOrder: 10` positions the article before the one with `categoryOrder: 20`.
 - `categoryIcon` specifies the path to the icon that will be displayed next to the article name. `categoryIcon: /icons/quickstart.svg` displays the "quickstart.svg" icon next to the article name.
 
-<br/>
 
 ## [Step-by-Step Setup Guide](step-by-step-setup-guide)
 
@@ -135,7 +131,6 @@ After configuring the meta properties, check how the links are displayed on the 
 - Check the correctness of the link names and their relevance to the content.
 - Ensure that the design is not disrupted due to long names or a large number of links.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -146,7 +141,6 @@ After configuring the meta properties, check how the links are displayed on the 
 - **Concise descriptions:** Descriptions should be brief (up to 30 characters) to fully display on the main page.
 - **Plan the structure:** Think ahead about which sections and articles will be included to avoid frequent changes.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -240,7 +234,6 @@ We offer expert consultations in the field of...
   - Consulting
   - Technical Support
 
-<br/>
 
 ### Example 2: Hiding a Section from Sections
 
@@ -266,7 +259,6 @@ _This section is under development and will be available later._
 
 **Result:** The document "Drafts" is not displayed on the main page because `published: false`.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
@@ -274,7 +266,6 @@ Sections on the documentation main page play an important role in organizing and
 Proper configuration of sections using meta properties allows you to create a structured and intuitive interface. By following recommendations and examples,
 you can optimize the main documentation page for easier article search.
 
-<br/>
 
 ## [Additional Resources](additional-resources)
 

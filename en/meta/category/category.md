@@ -19,7 +19,6 @@ historyDescription: The meta-property category defines the section on the main p
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
 
-<br/>
 
 ## [Description](description)
 
@@ -27,7 +26,6 @@ The meta property `category` is used to define a section on the main page of the
 to one of the predefined categories, allowing to structure the content on the main page and provide users with quick access to the most
 relevant materials.
 
-<br/>
 
 ### [Basic functions](basic-functions)
 
@@ -35,7 +33,6 @@ relevant materials.
 - **Managing display on the main page:** Only articles with the specified `category` property will be displayed in the corresponding section on the main page.
 - **Content organization:** Helps in grouping articles by theme or purpose to improve navigation.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -45,7 +42,6 @@ relevant materials.
 - **`categoryOrder`**: Determines the order of displaying the article within the section on the main page.
 - **`categoryIcon`**: Specifies the path to the icon displayed next to the article name in the section.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -53,7 +49,6 @@ relevant materials.
 - **Limited values:** `category` only accepts predefined values in `categories`. Using other values will not result in the article being displayed in the section.
 - **Absence of `category`:** If the property is not specified, the article will not be displayed in any section on the main page, but will remain accessible through the menu or direct link.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -61,7 +56,6 @@ relevant materials.
 - **Grouping content by topics:** To organize articles into thematic sections, facilitating navigation for users.
 - **Increasing visibility of important materials:** To draw attention to specific articles by placing them in prominent sections on the main page.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -69,13 +63,11 @@ relevant materials.
 - **Supplement with other meta properties:** Use together with `categoryName`, `categoryDescription`, and `categoryIcon` to display the article in the section.
 - **Content uniqueness:** Avoid duplicating articles in one section with the same names or descriptions; one article cannot be displayed in multiple sections.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The meta property `category` is key to managing the display of articles on the main page of the documentation. It allows for efficient organization of content by distributing articles into thematic sections. Proper use of this property enhances navigation and user experience, helping visitors quickly find the information they need.
 
-<br/>
 
 ## [Usage Example](examples)
 

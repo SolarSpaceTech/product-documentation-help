@@ -18,7 +18,6 @@ historyDescription: The displayName meta property sets a brief title for the art
 ![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/display-name.png)
 
 
-<br/>
 
 ## [Description](description)
 
@@ -26,7 +25,6 @@ The `displayName` meta property is used to specify the name of an article or sec
 such as the menu and breadcrumbs. This property plays a key role in organizing and presenting documentation, helping users quickly
 navigate and find the sections or articles they need.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -36,7 +34,6 @@ users to see clear and convenient names when navigating through the documentatio
 level, providing a clear representation of the current location.
 - **Structure Organization:** Helps structure the documentation, providing logical and consistent section and article names.
 
-<br/>
 
 ### [Working with Other Meta Properties](with-other-properties)
 
@@ -50,7 +47,6 @@ to `false`, the item will not be displayed, regardless of the `displayName` valu
 - **`categoryName`:** Used to display the article name in one of the sections with articles on the main page, may differ from `displayName`.
 
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -58,7 +54,6 @@ to `false`, the item will not be displayed, regardless of the `displayName` valu
 - **Consistency:** Maintain a consistent writing style for `displayName` throughout the documentation for a professional look and ease of use.
 - **Uniqueness:** Ensure that each `displayName` value is unique within the context of the parent section to avoid confusion.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -66,7 +61,6 @@ to `false`, the item will not be displayed, regardless of the `displayName` valu
 - **For simplifying navigation:** When it is necessary to provide users with clear and concise names for quick access to documentation sections.
 - **For shortening long titles:** If the `title` is too long or contains details unnecessary in the menu, `displayName` can be used to provide a brief version.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -78,13 +72,11 @@ to `false`, the item will not be displayed, regardless of the `displayName` valu
 - **Consistency:** Use the same writing style throughout the documentation (e.g., all names in imperative mood
   or in noun form).
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `displayName` meta property is an important element in generating documentation, as it directly affects how users will navigate your site. Proper and thoughtful use of `displayName` enhances the usability of the documentation, making it more accessible and understandable for users.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -105,7 +97,6 @@ This section describes how to set up the environment for developing our project.
 - **`displayName`:** "Setting Up Environment" will be displayed in the menu and breadcrumbs, providing a brief and clear title.
 - **`title`:** "Setting Up Development Environment for the Project" will be displayed on the browser tab, providing a more detailed description.
 
-<br/>
 
 ### Example 2: Section with Multiple Subarticles
 

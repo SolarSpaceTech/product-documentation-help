@@ -11,7 +11,6 @@ historyDescription: Usage in Markdown Markup
 # Block Code
 This section provides an example of using block code.
 
-<br/>
 
 ## Description
 
@@ -19,7 +18,6 @@ This section provides an example of using block code.
   To use block code, wrap the code in <code class="code-inline">```</code>
 </p>
 
-<br/>
 
 ## Example Usage
 
@@ -34,7 +32,6 @@ This section provides an example of using block code.
 ```
 </code>
 
-<br/>
 
 ## Result
 

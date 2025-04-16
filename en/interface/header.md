@@ -23,7 +23,6 @@ The documentation header is one of the key elements of the interface. It provide
 
 ![Header](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header.png)
 
-<br/>
 
 ## [Basic Functions](basic-functions)
 
@@ -33,7 +32,6 @@ The documentation header is one of the key elements of the interface. It provide
 - **Theming:** Allows the user to switch between dark and light themes.
 - **Language:** Enables users to choose the language for content display.
 
-<br/>
 
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
@@ -43,7 +41,6 @@ The documentation header is one of the key elements of the interface. It provide
   ![Effect of the headerOrder property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-order.png)
 - **`published`:** Controls the visibility of the article in all interface elements, including the header.
 
-<br/>
 
 ## [Impact of Meta Properties](impact-of-meta-properties)
 
@@ -51,7 +48,6 @@ The documentation header is one of the key elements of the interface. It provide
 - **Order of Links:** Links in the header are sorted in ascending order of the `headerOrder` value.
 - **Article Visibility:** If `published` is set to `false`, the article will not be displayed, regardless of other meta properties.
 
-<br/>
 
 ## [Step-by-Step Setup Guide](step-by-step-setup-guide)
 
@@ -91,7 +87,6 @@ After configuring the meta properties, check how the links are displayed in the 
 - Check the accuracy of the link names and their relevance to the content.
 - Ensure that the header design is not disrupted due to long names or a large number of links.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -115,7 +110,6 @@ After configuring the meta properties, check how the links are displayed in the 
 - **Checking on Different Devices:** Make sure the header displays correctly on desktops, tablets, and smartphones.
 - **Adaptability:** The header should be user-friendly on screens of different sizes.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -195,7 +189,6 @@ headerOrder: 50
 - Questions
 - Support
 
-<br/>
 
 ### Example 2: Header Emphasizing New Features
 
@@ -216,13 +209,11 @@ headerOrder: 5
 
 - The "What's New" link will be displayed first in the header, drawing users' attention to the latest updates.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The header is an important element that affects usability. Properly configuring the header using the meta properties `headerName` and `headerOrder` allows for quick access to key sections and improves navigation.
 
-<br/>
 
 ## [Additional Resources](additional-resources)
 

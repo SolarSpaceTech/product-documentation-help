@@ -11,7 +11,6 @@ historyDescription: Usage in Markdown formatting
 # Combined Lists
 This article provides an example of using ordered and unordered lists together.
 
-<br/>
 
 ## Example of Usage
 
@@ -44,7 +43,6 @@ Element types:
   - HTML markup
 ```
 
-<br/>
 
 ## Result
 

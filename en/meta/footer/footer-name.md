@@ -17,7 +17,6 @@ historyDescription: The meta property footerName sets the name of the link to th
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-name.png)
 
-<br/>
 
 ## [Description](description)
 
@@ -25,7 +24,6 @@ The meta property `footerName` is used to set the name of the link to the articl
 of the documentation interface that provides quick access to the most important or frequently used sections and articles.
 By using `footerName`, you can select specific articles to display in the footer and set appropriate names for them.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -33,7 +31,6 @@ By using `footerName`, you can select specific articles to display in the footer
 - **Quick access:** Allows users to quickly navigate to key sections or articles from any point in the documentation.
 - **Footer customization:** Provides the ability to customize the set of links in the footer to match the documentation needs and priorities.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -43,7 +40,6 @@ By using `footerName`, you can select specific articles to display in the footer
 - **With `displayName` and `title`:** `footerName` may differ from `displayName` and `title`, allowing you to set an alternative name for the article specifically for the footer.
 - **With other meta properties:** Does not affect the display of the article in the menu, header, or other interface elements.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -51,14 +47,12 @@ By using `footerName`, you can select specific articles to display in the footer
 - **Uniqueness:** It is recommended that the names of the links in the footer are unique to avoid confusion.
 - **Name Length:** Try to use short and clear names to ensure they are displayed correctly in the footer and do not disrupt the documentation design.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **Highlighting Key Sections:** To provide quick access to the most important or frequently used sections of the documentation.
 - **Improving Navigation:** When it is necessary to make it easier for users to navigate to specific sections from any part of the documentation.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -69,7 +63,6 @@ By using `footerName`, you can select specific articles to display in the footer
 - **Priority:** Use `footerOrder` to prioritize links based on importance.
 - **Consistent Style:** Maintain a consistent style of names in the footer.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
@@ -99,7 +92,6 @@ Welcome to the guide on getting started with our documentation...
 - **`footerName`:** "Home" will be displayed in the footer of the documentation as the name of the link to this article.
 - **`footerOrder`:** The value `10` determines the position of the link in the footer relative to other links.
 
-<br/>
 
 ### Example 2: Article without displaying in the footer
 

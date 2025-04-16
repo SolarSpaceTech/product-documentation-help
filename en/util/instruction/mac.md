@@ -13,16 +13,14 @@ historyDescription: Installation and Update Instructions
 This guide will help you install and use the utility on macOS.
 1. Preparing the Utility
    - **Obtain the utility**: Ensure you have the self-extracting script `pd` for macOS. It should be located in the same
-   directory as your documentation.<br/>
-
+   directory as your documentation.
 2. Directory Organization
    - **Utility Location**: Ensure the utility pd is at the same level as the documentation directory.
    - **Rename the documentation directory**: The documentation directory should be named `content`. If it has a different
    name, rename it to `content`.
    - **Note**: Although you can change the documentation directory path using the `PD_CONTENT_DIR` variable
    in the `pd` script, it’s recommended to simply rename the directory to `content` as the set value may reset
-   with updates.<br/>
-
+   with updates.
 3. Setting Permissions
    - **Make the script executable**: By default, the utility is not executable. Open the terminal and navigate to
    the directory where the `pd` file is located.
@@ -37,7 +35,6 @@ This guide will help you install and use the utility on macOS.
    ```
    Ensure you run the utility from the same directory where the `pd` script is located.
 
-<br/>
 
 
 ## Subsequent Runs

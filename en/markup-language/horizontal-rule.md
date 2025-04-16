@@ -14,7 +14,6 @@ Separator line. Allows to separate blocks. Syntax
 ```md
 ---
 ```
-<br/>
 
 ## Usage Example
 
@@ -30,7 +29,6 @@ Commodi doloribus eos ipsum nulla optio soluta! Commodi dolore dolorum
 ducimus, nihil numquam obcaecati possimus similique ullam ut veniam vero voluptatem. At deleniti ex nulla pariatur placeat repellat saepe.
 ```
 
-<br/>
 
 ## Result
 

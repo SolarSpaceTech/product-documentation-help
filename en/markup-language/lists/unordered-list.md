@@ -11,12 +11,10 @@ historyDescription: Usage in Markdown formatting
 # Unordered Lists
 This article covers unordered lists and their usage.
 
-<br/>
 
 ## Description
 To create an unordered list, you need to use `-` at the beginning of the line. Each new item in the list should start with `-`. To create a multi-level unordered list, use 3 spaces before the `-` symbol, each subsequent level should be indented by a certain number of spaces that is a multiple of 3.
 
-<br/>
 
 ## Example of Usage
 ```md
@@ -42,7 +40,6 @@ Types of elements:
    - HTML markup
 ```
 
-<br/>
 
 ## Result
 

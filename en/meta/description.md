@@ -13,7 +13,6 @@ historyDescription: Provides a brief description of Meta properties
 Meta properties are a key tool for generating HTML pages based on a file structure consisting of Markdown files.
 They are used to manage various aspects of displaying and organizing documentation content.
 
-<br/>
 
 | Property              | Description                                                                                                                                    | Data type and possible values                                                     | Required | Implemented |
 | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :------: | :---------: |

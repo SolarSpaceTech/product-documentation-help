@@ -23,7 +23,6 @@ Breadcrumbs are a navigational element of the interface that displays the user's
 
 ![Breadcrumbs](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/breadcrumbs.png)
 
-<br/>
 
 ## [Basic Functions](basic-functions)
 
@@ -31,7 +30,6 @@ Breadcrumbs are a navigational element of the interface that displays the user's
 - **Orientation Improvement:** Helps users understand where they are in the overall documentation structure.
 - **Enhancing User Experience:** Reduces the level of user "lostness" when browsing deeply nested sections.
 
-<br/>
 
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
@@ -40,13 +38,11 @@ The following meta properties are used to customize breadcrumbs in the documenta
 - **`displayName`:** Determines the name of the section or article displayed in the breadcrumbs.
   ![Impact of the displayName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/display-name.png)
 
-<br/>
 
 ## [Impact of Meta Properties](impact-of-meta-properties)
 
 - The `displayName` is used in breadcrumbs to display the names of sections and articles.
 
-<br/>
 
 ## [Step-by-Step Setup Guide](step-by-step-setup-guide)
 
@@ -86,7 +82,6 @@ published: true
 - Generate documentation and navigate to different articles to verify the correct display of breadcrumbs.
 - Ensure that the path is displayed correctly.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -95,7 +90,6 @@ published: true
 - **Avoid Deep Nesting Levels:** Try not to create overly deep hierarchies to prevent breadcrumbs from becoming too long.
 - **Visibility Check:** Regularly check which sections and articles are displayed in breadcrumbs to avoid hidden or unnecessary elements.
 
-<br/>
 
 ## [Usage Example](examples)
 
@@ -137,13 +131,11 @@ published: true
 Documentation / Getting Started / Installation
 ```
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 Breadcrumbs are an important navigational element in documentation, improving user orientation and simplifying site navigation. Properly configuring breadcrumbs with the `displayName` meta property helps create a clear and efficient structure, facilitating access to the necessary information.
 
-<br/>
 
 ## [Additional Resources](additional-resources)
 

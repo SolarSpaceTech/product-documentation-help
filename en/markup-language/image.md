@@ -12,7 +12,6 @@ historyDescription: Usage in Markdown Markup
 
 This section covers images and how to use them.
 
-<br/>
 
 ## Description
 
@@ -26,7 +25,6 @@ To create an image, use the syntax:
 - `image/path` is the URL of the image;
 - `Image Alt Text` is the text that will be displayed when hovering over the image.
 
-<br/>
 
 ## Usage Example
 
@@ -34,7 +32,6 @@ To create an image, use the syntax:
 ![image](https://placehold.co/1600x2500 "Some text")
 ```
 
-<br/>
 
 ## Result
 

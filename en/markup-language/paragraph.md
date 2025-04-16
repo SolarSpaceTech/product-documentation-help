@@ -12,7 +12,6 @@ historyDescription: Usage in Markdown markup
 
 To create a paragraph, you do not need to use any special characters. To separate a paragraph, it is enough to have empty lines above and below it.
 
-<br/>
 
 ## Example of usage
 
@@ -27,7 +26,6 @@ voluptatem voluptatum!
 Commodi doloribus eos ipsum nulla optio soluta! Commodi dolore dolorum
 ducimus, nihil numquam obcaecati possimus similique ullam ut veniam vero voluptatem. At deleniti ex nulla pariatur placeat repellat saepe.
 ```
-<br/>
 
 ## Result
 

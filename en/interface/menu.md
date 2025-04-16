@@ -14,7 +14,6 @@ The documentation menu is one of the key elements of the user interface. It prov
 
 ![Menu](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/menu.png)
 
-<br/>
 
 ## [Basic Functions](basic-functions)
 
@@ -23,7 +22,6 @@ The documentation menu is one of the key elements of the user interface. It prov
 - **Orientation:** Helps users understand where they are in the documentation structure by highlighting the current section or article.
 - **Accessibility:** Makes all documentation accessible from any documentation article.
 
-<br/>
 
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
@@ -35,7 +33,6 @@ The documentation menu is customized using the following meta properties specifi
   ![Impact of the order property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/order.png)
 - **`published`:** Controls the visibility of a section or article in the menu and navigation. If set to `false`, the item is not displayed.
 
-<br/>
 
 ## [Impact of Meta Properties](impact-of-meta-properties)
 
@@ -43,7 +40,6 @@ The documentation menu is customized using the following meta properties specifi
 - `order` sorts menu items in ascending order of value.
 - `published` if set to `false`, the section or article will not be displayed in the menu and navigation. Nested items will not be displayed if the parent section has `published: false`.
 
-<br/>
 
 ## [Step-by-Step Setup Guide](step-by-step-setup-guide)
 
@@ -90,7 +86,6 @@ published: true
 - Generate the site and check that the menu displays correctly.
 - Ensure that all links work and lead to the corresponding sections and articles.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -99,7 +94,6 @@ published: true
 - **Unique `order` Values:** Assign unique `order` values within the same menu level for precise control of display order.
 - **Planning:** Plan the menu structure in advance to avoid frequent changes and reordering.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -148,7 +142,6 @@ published: true
 ---
 ```
 
-<br/>
 
 ### Example 2: Hiding a Section from the Menu
 
@@ -164,7 +157,6 @@ published: false
 
 **Result:** The "Drafts" section and all its articles are not displayed in the menu and navigation.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
@@ -172,7 +164,6 @@ Documentation menu plays a critical role in providing convenient and efficient s
 you can customize the menu according to the audience's needs, ensuring a logical structure and sequence. Careful planning
 and implementation will help create an easily usable interface.
 
-<br/>
 
 ## [Additional Resources](additional-resources)
 

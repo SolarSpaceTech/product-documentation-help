@@ -37,7 +37,6 @@ these variables are replaced with the corresponding values from the provided JSO
 - If a variable is not found in the JSON object, it will remain in the text as `{{ var }}`, which may lead to incorrect display.
 - It is recommended to check for the presence of all used variables in your JSON object before generating the page.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -45,14 +44,12 @@ these variables are replaced with the corresponding values from the provided JSO
 - **Error handling**: Provide system behavior in case of missing data or errors in the JSON.
 - **Documenting variables**: Establish a naming convention for variables and document their usage to facilitate maintenance.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 Using variables in Markdown files allows you to use white-label, resulting in documentation content that remains
 independent of a specific company.
 
-<br/>
 
 ## [Usage Example](example)
 

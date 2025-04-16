@@ -12,7 +12,6 @@ historyDescription: Detailed explanation of adding a new language to the site, m
 
 In this guide, we will detail the process of adding a new language to the file structure so that the content is automatically displayed in the desired language and seamlessly integrated into all elements of the user interface.
 
-<br/>
 
 ## [Language Directory Structure](structure)
 
@@ -26,7 +25,6 @@ In this guide, we will detail the process of adding a new language to the file s
 - **Consistency**: All language directories should have the **same file structure**.
 - **Articles and Sections**: File names of articles and sections, as well as their identifiers (`id`), should match across all language versions.
 
-<br/>
 
 ## [Adding a New Language Process](process)
 
@@ -86,14 +84,12 @@ Example for French language: `/fr`
 - **Navigation**:
   - Go through all links and make sure they lead to the correct pages.
 
-<br/>
 
 ## [Important Notes](notes)
 
 - **Data Consistency**: It is important that the directory structure, file names, and `id` identifiers are **completely identical** across language versions.
 - **Variables**: Using `{{ var }}` variables facilitates multilingual support, as they automatically substitute the necessary values from `white-label`.
 
-<br/>
 
 ## [Conclusion](conclusion)
 

@@ -12,7 +12,6 @@ historyDescription: Usage in Markdown Markup
 
 This section covers headings and how to use them.
 
-<br/>
 
 ## [Description](description)
 
@@ -27,7 +26,6 @@ There are 6 levels of headings:
 | #####     | h5               | Heading 5 level |
 | ######    | h6               | Heading 6 level |
 
-<br/>
 
 ## [Headings in Table of Contents](heading-in-table-of-contents)
 
@@ -43,7 +41,6 @@ The structure for creating a linked heading:
 - `link-to-heading` will be used for navigation and will also change the hash in the URL when scrolling to the heading;
 - `Title in Table of Contents` - optional. Used in the table of contents to display a title different from the content heading. If omitted, the table of contents will display `Content displayed in heading`.
 
-<br/>
 
 ## [Usage](using)
 
@@ -62,7 +59,6 @@ you can use:
 
 The heading can be of any level.
 
-<br/>
 
 ## Usage Example
 
@@ -74,7 +70,6 @@ The heading can be of any level.
 ###### Header 6
 ```
 
-<br/>
 
 ## Result
 

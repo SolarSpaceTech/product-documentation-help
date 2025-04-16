@@ -17,14 +17,12 @@ historyDescription: The meta-property categories defines the names and order of 
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
 
-<br/>
 
 ## [Description](description)
 
 A meta property used in the language section. It represents a list of strings and defines sections on the main page for the given language.
 These sections are used to group articles by themes or functional features, making it easier for users to navigate and find the necessary information.
 
-<br/>
 
 ### [Basic functions](basic-functions)
 
@@ -33,7 +31,6 @@ These sections are used to group articles by themes or functional features, maki
 - **Linking to articles:** Articles can be linked to specific sections through the `category` property in their metadata, corresponding to one
   of the values in `categories`.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -43,7 +40,6 @@ These sections are used to group articles by themes or functional features, maki
 - `categoryOrder`: Determines the order of the article within the section.
 - `categoryIcon`: URL of the icon displayed next to the article title in the section.
 
-<br/>
 
 ### [Important notes](notes)
 
@@ -55,14 +51,12 @@ These sections are used to group articles by themes or functional features, maki
 - **Localization**: Each language directory must have its own `categories`, allowing for translations of section names
   into different languages.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **Content Organization**: When you need to structure the main page for better navigation and grouping articles by topics.
 - **Improving User Experience**: To facilitate users in finding information by providing them with thematically grouped sections.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -71,13 +65,11 @@ These sections are used to group articles by themes or functional features, maki
 - **Updating Categories**: When adding new categories or changing the structure, remember to update the `categories` list in the language `metadata.md`.
 - **Category Localization**: When translating into other languages, ensure that the categories align with the language preferences of the audience.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `categories` property is a key tool for structuring the main documentation page. Proper use of this property, combined with other metadata properties, allows for creating intuitive navigation and enhances the overall user experience interacting with the documentation.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -102,7 +94,6 @@ categories:
 - Defines four sections on the main page: "Getting Started," "Services," "Resource Settings," and "FAQ."
 - The order of sections on the main page will correspond to the order in the `categories` array.
 
-<br/>
 
 ### Example 2: Associating an Article with a Category
 
@@ -135,7 +126,6 @@ Description:
 - `categoryOrder`: The position of the article within the "Getting Started" section.
 - `categoryIcon`: The path to the icon displayed next to the article title.
 
-<br/>
 
 ### Example 3: Multiple Language Sections
 

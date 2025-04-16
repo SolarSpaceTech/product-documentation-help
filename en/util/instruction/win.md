@@ -14,20 +14,17 @@ This guide will help you install and use the utility on Windows.
 
 1. Preparing the Utility
    - **Obtain the utility**: Ensure you have the self-extracting script `pd.bat` for Windows. It should be located
-   at the same level as your documentation directory.<br/>
-2. Directory Organization
+   at the same level as your documentation directory.2. Directory Organization
    - **Utility Location**: Place the `pd.bat` file in the same directory as your documentation or one level above it.
    - **Rename the documentation directory**: The documentation directory should be named `content`. If it has
    a different name, rename it to `content`.
    - **Note**: Although you can change the documentation directory path using the `PD_CONTENT_DIR` variable
    in the `pd.bat` script, it is recommended to simply rename the directory to `content` as the set value may reset
-   with updates.<br/>
-3. First Run of the Utility
+   with updates.3. First Run of the Utility
    - **Run the utility**: Double-click on the `pd.bat` file in Windows File Explorer to execute it.
    - **Extracting Files**: During the first run, the `bin` and `plugins` directories will be created. This may take
    a while; try to close all other applications before the first run.
 
-<br/>
 
 
 ## Subsequent Runs

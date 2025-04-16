@@ -15,14 +15,12 @@ historyDescription: Unique identifier of an article used for short links and vis
 
 **Data type:** Number
 
-<br/>
 
 ## [Description](description)
 
 The `id` property is a unique identifier of an article within a specific language in the documentation. It plays a key role in organizing content,
 providing the ability to create short links and track the visit history of articles by users.
 
-<br/>
 
 ### [Main functions](basic-functions)
 
@@ -30,7 +28,6 @@ providing the ability to create short links and track the visit history of artic
 - **Short links**: Allows for creating short and easy-to-remember links to articles using their id.
 - **Visit history**: Enables tracking and recording the visit history of articles by users, enhancing the user experience.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -40,7 +37,6 @@ of the article. This simplifies navigation and maintains links when URL structur
 - **Multilingual support**: Since the id is unique within a language, this allows for having corresponding articles in different languages with the same `id`, facilitating
 localization and switching between language versions.
 
-<br/>
 
 ### [Important notes](notes)
 
@@ -51,14 +47,12 @@ to facilitate content management.
 - **Immutability**: After assigning an `id`, it is strongly recommended not to change it, as this may disrupt existing links and visit history.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **Navigation**: To create internal links between articles using short links based on `id`.
 - **Localization**: When creating multilingual applications, where articles in different languages have corresponding `id`.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -66,13 +60,11 @@ to facilitate content management.
 - **Updating Links**: When changing the article id (which is highly not recommended), make sure to update all links that reference it.
 - **Deleting an Article**: When deleting an article, it is recommended not to reuse the freed id.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `id` property is a fundamental meta property for organizing and managing content in documentation. Proper use of `id` simplifies navigation, enhances user experience, and contributes to the maintainability of the system.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -119,7 +111,6 @@ Description:
 - When rendered, `[42]` will be converted to the link `/ru/documentation/guide`, resulting in `[Guide](/ru/documentation/guide)`.
 - If the path or filename `guide.md` changes, the link will remain correct as it is based on the `id`.
 
-<br/>
 
 ### Example 2: Tracking Visit History
 

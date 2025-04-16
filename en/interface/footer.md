@@ -23,14 +23,12 @@ The documentation footer is one of the key elements of the interface. It provide
 
 ![Footer](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer.png)
 
-<br/>
 
 ## [Basic Functions](basic-functions)
 
 - **Navigation:** Provides users with access to key sections and articles from any documentation article.
 - **Consistency:** Creates a unified style and structure, making it easier for users to navigate through the documentation.
 
-<br/>
 
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
@@ -42,7 +40,6 @@ The documentation footer is one of the key elements of the interface. It provide
 
 - **`published`:** Controls the visibility of the article in all interface elements, including the footer.
 
-<br/>
 
 ## [Impact of Meta Properties](impact-of-meta-properties)
 
@@ -50,7 +47,6 @@ The documentation footer is one of the key elements of the interface. It provide
 - **Order of Links:** Links in the footer are sorted in ascending order of the `footerOrder` value.
 - **Article Visibility:** If `published` is set to `false`, the article will not be displayed, regardless of other meta properties.
 
-<br/>
 
 ## [Step-by-By-Step Setup Guide](step-by-step-setup-guide)
 
@@ -90,7 +86,6 @@ After configuring the meta properties, check how the links are displayed on vari
 - Verify the accuracy of link names and their relevance to the content.
 - Ensure that the footer design is not compromised due to long names or a large number of links.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -109,14 +104,12 @@ After configuring the meta properties, check how the links are displayed on vari
 - **Unified Style:** Maintain consistency in the style and wording of link names.
 - **Logical Order:** Arrange links in an order that corresponds to their importance or logical sequence of use.
 
-<br/>
 
 ### Testing and Responsive Design
 
 - **Testing on Different Devices:** Make sure the footer displays correctly on desktops, tablets, and smartphones.
 - **Responsiveness:** The footer should be user-friendly on screens of various sizes.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -196,7 +189,6 @@ footerOrder: 50
 - Questions
 - Support
 
-<br/>
 
 ### Example 2: Footer Highlighting New Features
 
@@ -217,13 +209,11 @@ footerOrder: 5
 
 - The "What's New" link will be displayed first in the footer, drawing users' attention to the latest updates.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The footer is an important element that impacts usability. Proper configuration using the meta properties `footerName` and `footerOrder` allows for quick access to key sections and enhances navigation.
 
-<br/>
 
 ## [Additional Resources](additional-resources)
 

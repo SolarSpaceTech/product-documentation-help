@@ -17,7 +17,6 @@ historyDescription: The meta property headerOrder defines the order of displayin
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-order.png)
 
-<br/>
 
 ## [Description](description)
 
@@ -25,7 +24,6 @@ The meta property `headerOrder` is used to define the order of displaying links 
 navigation element, providing quick access to the most important sections or articles of the documentation.
 With `headerOrder`, you can precisely configure the sequence of links in the header, ensuring logical and user-friendly navigation.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -34,7 +32,6 @@ With `headerOrder`, you can precisely configure the sequence of links in the hea
 - **Priority of display:** Allows arranging links by importance, providing users with the most relevant content first.
 - **Customization flexibility:** Provides control over the header structure, allowing it to be adapted to the documentation needs.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -42,7 +39,6 @@ With `headerOrder`, you can precisely configure the sequence of links in the hea
 - **With `published`:** If `published` is set to `false`, the article will not be displayed in the header, regardless of the values of `headerName` and `headerOrder`.
 - **With other meta properties:** Does not affect the display of the article in the menu, footer, or other interface elements, such as `order` or `footerOrder`.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -51,7 +47,6 @@ With `headerOrder`, you can precisely configure the sequence of links in the hea
 - **Uniqueness of Values:** It is not mandatory, but recommended, for the values of `headerOrder` to be unique for precise control of the display order.
 - **Sorting:** Links in the header are sorted in ascending order of the `headerOrder` value. Links with a lower value are displayed first.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -59,7 +54,6 @@ With `headerOrder`, you can precisely configure the sequence of links in the hea
 - **For Content Prioritization:** When arranging links by importance, providing users with the most sought-after sections first.
 - **When Updating Documentation:** To add new links to the header without disrupting the existing order.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -74,7 +68,6 @@ With `headerOrder`, you can precisely configure the sequence of links in the hea
 The meta property `headerOrder` is a key tool for managing the order of links displayed in the documentation header.
 Proper use of this property allows for creating a logical and intuitive navigation, improving user experience, and facilitating access to important information. Plan the header structure and use `headerOrder` in conjunction with `headerName` for effective interface customization.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -137,7 +130,6 @@ If you have any questions, contact our support team...
 2. API (headerOrder: 20)
 3. Support (headerOrder: 30)
 
-<br/>
 
 ### Example 2: Omitting the `headerOrder` Value
 

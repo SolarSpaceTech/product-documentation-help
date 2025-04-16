@@ -17,21 +17,18 @@ historyDescription: The meta property categoryOrder sets the order of displaying
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-order.png)
 
-<br/>
 
 ## [Description](description)
 
 The meta property `categoryOrder` is used to determine the order of displaying an article within a specific section on the main page of the website.
 It allows you to precisely configure the sequence of articles in the section, providing control over which article will be shown first, second, and so on.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
 - **Managing the order of articles in a section:** Allows you to arrange articles in the desired sequence within a single section on the main page.
 - **Display priority:** Articles with a lower `categoryOrder` value are displayed higher in the section list, giving them a higher priority.
 
-<br/>
 
 ### [How It Works with Other Meta Properties](with-other-properties)
 
@@ -40,7 +37,6 @@ It allows you to precisely configure the sequence of articles in the section, pr
 - **`categoryDescription`:** Provides a brief description of the article to be displayed in the section.
 - **`categoryIcon`:** Specifies the path to the icon displayed next to the article name in the section.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -49,7 +45,6 @@ It allows you to precisely configure the sequence of articles in the section, pr
 - **Value range:** Can take any integer values. Positive numbers are usually used for ease of management.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -57,7 +52,6 @@ It allows you to precisely configure the sequence of articles in the section, pr
 - **Setting Priorities:** To highlight more important or current articles by placing them higher in the section.
 - **Content Organization:** For logical grouping and sequence of presenting information to users.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -68,7 +62,6 @@ It allows you to precisely configure the sequence of articles in the section, pr
 - **Checking Uniqueness:** Ensure that `categoryOrder` values are unique within the section to avoid ambiguity in the display order.
 - **Deliberate Order:** Plan the order of articles according to their importance and reading sequence.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
@@ -76,7 +69,6 @@ The `categoryOrder` meta property is a key tool for precise control of the displ
 It allows you to create a structured and logical interface, improving navigation and overall user experience on the site. Proper use
 of this property contributes to effective content organization and enhances the usability of the resource.
 
-<br/>
 
 ## [Usage Example](examples)
 

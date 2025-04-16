@@ -18,7 +18,6 @@ historyDescription: The meta property categoryName sets the title of the article
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-name.png)
 
 
-<br/>
 
 ## [Description](description)
 
@@ -26,14 +25,12 @@ The meta property `categoryName` is used to define the title of the article disp
 This title will be shown to users in the corresponding section (`start`, `services`, `useful`, or `faq` determined by the `category` property)
 when they are viewing the main page.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
 - **Setting a title for the main page:** Allows you to specify a specific title for the article that will be displayed only in the section
 on the main page, different from the main title of the article (`displayName`).
 
-<br/>
 
 ### [How It Works with Other Meta Properties](with-other-properties)
 
@@ -44,7 +41,6 @@ Takes one of the values: `start`, `services`, `useful`, `faq`.
 - **`categoryIcon`:** Specifies the path to the icon displayed next to the article title in the section.
 - **`displayName`:** The general title of the article used in the menu and breadcrumbs. `categoryName` and `displayName` may differ.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -53,28 +49,24 @@ Takes one of the values: `start`, `services`, `useful`, `faq`.
 - **Uniqueness of the seoTitle:** It is recommended that `categoryName` be informative and unique within the section to avoid confusion.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **Adapting the title for the main page:** When it is necessary to present an article with a more suitable title for the main page.
 - **Differences in titles:** If the article title in the menu or header is too long or technical for the main page.
 
-<br/>
 
 ### [Usage Tips](advice)
 
 - **Consistency:** Ensure that `categoryName` aligns with the content of the article and does not mislead users.
 - **Testing:** Check how `categoryName` looks on the main page alongside `categoryDescription` and the icon.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `categoryName` meta property is an important tool for customizing the display of articles on the main page. It allows content to be presented
 most effectively and attractively to users visiting the documentation.
 
-<br/>
 
 ## [Usage Example](examples)
 

@@ -17,14 +17,12 @@ historyDescription: The meta property headerName sets the title of the link to t
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-name.png)
 
-<br/>
 
 ## [Description](description)
 
 The meta property `headerName` is used to set the title of the link to the article in the documentation header. The header is an important element of the documentation interface that provides quick access to the most important or frequently used sections and articles.
 By using `headerName`, you can select specific articles to display in the header and set appropriate titles for them.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -32,7 +30,6 @@ By using `headerName`, you can select specific articles to display in the header
 - **Quick access:** Allows users to quickly navigate to key sections or articles from any point in the documentation.
 - **Header customization:** Provides the ability to customize the set of links in the header to match the documentation's needs and priorities.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -41,7 +38,6 @@ By using `headerName`, you can select specific articles to display in the header
 - **With `displayName` and `title`:** `headerName` may differ from `displayName` and `title`, allowing you to set an alternative title for the article specifically for the header.
 - **With other meta properties:** Does not affect the display of the article in the menu, footer, or other interface elements.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -49,14 +45,12 @@ By using `headerName`, you can select specific articles to display in the header
 - **Uniqueness:** It is recommended that the names of the links in the header are unique to avoid confusion.
 - **Name Length:** Try to use short and clear names so that they are correctly displayed in the header and do not disrupt the documentation design.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **Highlighting Key Sections:** To provide quick access to the most important or frequently used sections of the documentation.
 - **Improving Navigation:** When it is necessary to make it easier for users to navigate to specific sections from any part of the documentation.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -67,14 +61,12 @@ By using `headerName`, you can select specific articles to display in the header
 - **Priority:** Use `headerOrder` to prioritize links based on importance.
 - **Consistent Style:** Maintain a consistent style for header names.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `headerName` meta property is an important tool for customizing the documentation header, allowing you to highlight key sections and improve navigation through the documentation.
 Proper use of `headerName` enhances the usability of the documentation and provides users with quick access to the most important information.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -98,7 +90,6 @@ Welcome to the guide on getting started with our documentation...
 - **`headerName`:** "Start" will be displayed in the documentation header as a link to this article.
 - **`headerOrder`:** The value `10` determines the position of the link in the header relative to other links.
 
-<br/>
 
 ### Example 2: Article without display in the header
 

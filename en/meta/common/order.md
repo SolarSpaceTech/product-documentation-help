@@ -17,14 +17,12 @@ historyDescription: The meta property order defines the order of displaying sect
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/order.png)
 
-<br/>
 
 ## [Description](description)
 
 The meta property `order` is used to define the order of displaying sections and articles in the documentation menu, as well as within sections.
 This property allows organizing the documentation structure in a logical sequence, providing convenient navigation for users.
 
-<br/>
 
 ### [Main functions](basic-functions)
 
@@ -32,7 +30,6 @@ This property allows organizing the documentation structure in a logical sequenc
 - **Ordering within sections:** Affects the order of articles within the current section, allowing materials to be presented from main to additional.
 - **Study sequence:** Helps establish a logical reading order, guiding users through the documentation step by step.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -45,7 +42,6 @@ This property allows organizing the documentation structure in a logical sequenc
   - **`displayName`:** Article name in the menu and breadcrumbs.
   - **`published`:** If set to `false`, the article is not displayed in the menu and other navigation elements, regardless of the `order` value.
 
-<br/>
 
 ### [Important notes](notes)
 
@@ -54,7 +50,6 @@ This property allows organizing the documentation structure in a logical sequenc
 - **Uniqueness:** The `order` values do not necessarily have to be unique, but it helps to avoid uncertainty in the display order.
 - **Sorting:** Elements are sorted in ascending order of the `order` value. Elements with a lower value are displayed above.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -62,7 +57,6 @@ This property allows organizing the documentation structure in a logical sequenc
 - **When expanding documentation:** Allows adding new materials in the right place without disrupting the existing structure.
 - **For improving user experience:** Helps users easily navigate and find the necessary information.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -72,14 +66,12 @@ This property allows organizing the documentation structure in a logical sequenc
 - **Grouping:** If necessary, group related materials using close `order` values.
 - **Documentation:** Keep track of `order` values for large projects to avoid conflicts.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `order` meta property is a key tool for managing the display order of sections and articles in documentation.
 It allows creating a logical and understandable structure, facilitating navigation and enhancing the user experience when working with documentation.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -121,7 +113,6 @@ published: true
 2. Guides
 3. API Reference
 
-<br/>
 
 ### Example 2: Ordering articles within a section
 

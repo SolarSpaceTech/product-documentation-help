@@ -16,14 +16,12 @@ historyDescription: The meta property published controls the visibility of an ar
 
 **Possible values:** `true` or `false`
 
-<br/>
 
 ## [Description](description)
 
 The meta property `published` is used to control the visibility of sections and articles in the generated documentation. It determines whether the corresponding
 sections or articles will be displayed in various elements of the user interface, such as the menu, header, footer, and main page.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -32,7 +30,6 @@ sections or articles will be displayed in various elements of the user interface
 - **Exclusion from the main page:** Articles with `published: false` are not displayed in sections on the main page, even if `category` and related properties are specified.
 - **Hiding from users:** Allows hiding certain sections or articles from users without deleting them from the file structure.
 
-<br/>
 
 ### [How It Works with Other Meta Properties](with-other-properties)
 
@@ -43,14 +40,12 @@ sections or articles will be displayed in various elements of the user interface
 - **With nested elements:** If a section has `published: false`, all its nested sections and articles will also not be displayed, regardless of their own `published` properties.
 
 
-<br/>
 
 ### [Important Notes](notes)
 
 - **By default:** If the `published` property is missing, it is assumed to be `false`, and the element will not be displayed.
 - **Navigation Impact:** Elements with `published: false` do not appear in the menu, header, footer, and homepage, but can be accessed through a direct link.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -58,7 +53,6 @@ sections or articles will be displayed in various elements of the user interface
 - **For Unpublishing:** When you need to temporarily or permanently hide content from users.
 - **For Internal Documents:** If there are articles or sections intended only for internal use and should not be visible to users.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -75,7 +69,6 @@ sections or articles will be displayed in various elements of the user interface
 The `published` meta property is a key tool for controlling the visibility of sections and articles in the documentation. It allows flexible content management,
 ensuring that users are presented with only relevant and ready-to-use information. Proper use of `published` enhances the quality of documentation.
 
-<br/>
 
 ## [Usage Examples](examples)
 

@@ -12,7 +12,6 @@ historyDescription: Detailed description of the process of creating sections, co
 
 Creating sections is an important step in organizing documentation. Sections help structure information, making it more accessible and understandable for users. In this guide, we will examine in detail the process of creating sections, configuring them using metadata, and their impact on various elements of the user interface.
 
-<br/>
 
 ## [Section Structure](structure)
 
@@ -26,7 +25,6 @@ Creating sections is an important step in organizing documentation. Sections hel
 - **Section Description**: Each section should have a `metadata.md` file containing the section's metadata.
 - **Metadata Format**: Metadata is specified between triple dashes `---`.
 
-<br/>
 
 ## [Section Metadata](metadata)
 
@@ -50,7 +48,6 @@ published: true or false
 - **order**: The display order of the section in the menu relative to other sections at the same level.
 - **published**: Indicates whether the section should be displayed on the site. If `false` or absent, the section is not displayed.
 
-<br/>
 
 ## [Section Creation Process](process)
 
@@ -82,7 +79,6 @@ published: true
 - **Create subdirectories** within the section to create nested sections.
 - **Add `metadata.md`** to each subdirectory with the corresponding metadata.
 
-<br/>
 
 ## [Impact of Sections on User Interface](impact)
 
@@ -103,7 +99,6 @@ published: true
 
 - **Indirect Influence**: Sections impact content organization, which is reflected in other interface elements.
 
-<br/>
 
 ## [Practical Example of Section Creation](example)
 
@@ -141,7 +136,6 @@ published: true
 - **Breadcrumbs**: When viewing the "Example Article" article, breadcrumbs will display the path:
   "Documentation > Examples > Example Article".
 
-<br/>
 
 ## [Important Notes](notes)
 
@@ -149,7 +143,6 @@ published: true
 - **`published` Field**: Control the visibility of sections and articles using this field.
 - **Consistency**: Ensure that the file system structure reflects logical content organization.
 
-<br/>
 
 ## [Conclusion](conclusion)
 

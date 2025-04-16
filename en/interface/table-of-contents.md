@@ -16,7 +16,6 @@ facilitates orientation in the content, especially in long and detailed articles
 
 ![Table of Contents](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/table-of-contents.png)
 
-<br/>
 
 ## [Key Functions](basic-functions)
 
@@ -25,7 +24,6 @@ facilitates orientation in the content, especially in long and detailed articles
 - **Enhancing Readability:** Divides long articles into logical parts, making the reading and comprehension process easier.
 - **User Position Tracking:** Highlights the current section in the table of contents, showing the user's position in the article structure.
 
-<br/>
 
 ## [Customization Using Markdown Markup](customization-using-Markdown-markup "Customization with MD Markup")
 
@@ -54,7 +52,6 @@ effect. To correctly generate the table of contents, certain rules for structuri
 ### Subsubsection 2.1
 ```
 
-<br/>
 
 ## [Impact of Heading Structure on Table of Contents](impact-of-heading-structure)
 
@@ -74,7 +71,6 @@ The heading structure directly affects the formation of the table of contents:
 
 In this case, the table of contents will not consider the "Subsection without main heading" heading, as the main h1 heading is not at the beginning of the document.
 
-<br/>
 
 ## [Step-by-Step Setup Guide](step-by-step-setup-guide)
 
@@ -114,7 +110,6 @@ Use headings of different levels to denote main sections and subsections. Start 
 
 Review the generated article to check the correctness of the table of contents display and navigation convenience.
 
-<br/>
 
 ## [Recommendations](recommendations)
 
@@ -125,7 +120,6 @@ Review the generated article to check the correctness of the table of contents d
 - **Use links correctly:** Ensure that all links in headings are correct and lead to the corresponding sections.
 - **Use abbreviations for contents:** If a link in the table of contents is too long, its display can be different from the heading in the article, the main thing is to convey the meaning of the heading in the article to avoid confusing the user `## [High-Level Design](hld "HLD")`. In the article, it will display as `"High-Level Design"` and in the table of contents as `"HLD"`.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -198,13 +192,11 @@ Review the generated article to check the correctness of the table of contents d
 
 Headings "Task Description," "Subsystem Requirements," and "Implementation Requirements" will not be included in the table of contents as the main h1 header is not at the beginning of the document.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The table of contents of an article is an important tool for organizing and navigating through the article. It provides convenience in finding information, improves user orientation, and contributes to creating a structured and professional appearance of the article. Proper configuration of headings in Markdown markup allows for efficient use of the table of contents, making interaction with documentation more intuitive and user-friendly.
 
-<br/>
 
 ## [Additional Resources](additional-resources)
 

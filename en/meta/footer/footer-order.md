@@ -17,7 +17,6 @@ historyDescription: The meta property footerOrder determines the order of displa
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-order.png)
 
-<br/>
 
 ## [Description](description)
 
@@ -25,7 +24,6 @@ The meta property `footerOrder` is used to determine the order of displaying lin
 of navigation, providing quick access to the most important sections or articles. With `footerOrder`, you can precisely configure the sequence of links
 in the footer, ensuring logical and user-friendly navigation.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -34,7 +32,6 @@ in the footer, ensuring logical and user-friendly navigation.
 - **Priority of display:** Allows arranging links by importance, providing users with the most relevant content first.
 - **Customization flexibility:** Provides control over the footer structure, allowing it to be adapted to documentation needs.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
@@ -42,7 +39,6 @@ in the footer, ensuring logical and user-friendly navigation.
 - **With `published`:** If `published` is set to `false`, the article will not be displayed in the footer, regardless of the values of `footerName` and `footerOrder`.
 - **With other meta properties:** Does not affect the display of the article in the menu, footer, or other interface elements, such as `order` or `footerOrder`.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -51,7 +47,6 @@ in the footer, ensuring logical and user-friendly navigation.
 - **Uniqueness of Values:** Not mandatory, but recommended for the values of `footerOrder` to be unique for precise control of the display order.
 - **Sorting:** Links in the footer are sorted in ascending order of the `footerOrder` value. Links with lower values are displayed first.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -59,7 +54,6 @@ in the footer, ensuring logical and user-friendly navigation.
 - **For Content Prioritization:** When arranging links by importance, providing users with the most sought-after sections first.
 - **When Updating Documentation:** To add new links to the footer without disrupting the existing order.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -70,13 +64,11 @@ in the footer, ensuring logical and user-friendly navigation.
 - **Structure Planning:** Plan in advance which sections or articles should be accessible from the footer and determine their order.
 - **Consistency:** Adhere to a consistent numbering scheme and naming style.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The meta property `footerOrder` is a key tool for managing the order of links displayed in the documentation footer. Proper use of this property allows for creating a logical and intuitive navigation, improving user experience, and facilitating access to important information. Plan the footer structure and use `footerOrder` in conjunction with `footerName` for effective interface customization.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -139,7 +131,6 @@ If you have any questions, contact our support team...
 2. API (footerOrder: 20)
 3. Support (footerOrder: 30)
 
-<br/>
 
 ### Example 2: Omitting the `footerOrder` Value
 

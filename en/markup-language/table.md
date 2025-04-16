@@ -11,7 +11,6 @@ historyDescription: Usage in Markdown Syntax
 # Tables
 In this article, we will look at how to create and format tables in Markdown.
 
-<br/>
 
 ## Description
 Tables in Markdown are created using vertical bar `|`, hyphen `-`, and colon `:` for alignment.
@@ -26,7 +25,6 @@ Tables in Markdown are created using vertical bar `|`, hyphen `-`, and colon `:`
 | Cell 4      | Cell 5      | Cell 6      |
 ```
 
-<br/>
 
 ## Column Alignment
 
@@ -52,7 +50,6 @@ You can adjust the text alignment in columns using a colon `:` in the divider ro
 |--------------: |
 | Aligned text   |
 ```
-<br/>
 
 ## Usage Examples
 
@@ -73,7 +70,6 @@ You can adjust the text alignment in columns using a colon `:` in the divider ro
 | Maria    | 30    | St. Petersburg  |
 | Alexei   | 28    | Novosibirsk     |
 
-<br/>
 
 ### Table with Alignment
 
@@ -93,7 +89,6 @@ You can adjust the text alignment in columns using a colon `:` in the divider ro
 | Bananas     |       80.00 |        5 |
 | Oranges     |      120.75 |        8 |
 
-<br/>
 
 ### Table with different alignment
 

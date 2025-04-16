@@ -15,11 +15,9 @@ Brief description
 
 Description
 
-<br/>
 
 ## Usage Example
 
-<br/>
 
 ## Result
 

@@ -11,12 +11,10 @@ historyDescription: Usage in Markdown formatting
 # Ordered Lists
 This article covers ordered lists and their usage.
 
-<br/>
 
 ## Description
 To create an ordered list, you need to use `(number).` at the beginning of the line. Each new list item should start with `(number).`. To create a multi-level ordered list, use 3 spaces before `(number).`, each subsequent level should be indented by a certain number of spaces multiple of 3.
 
-<br/>
 
 ## Example of Usage
 ```md
@@ -48,7 +46,6 @@ Types of elements:
    1. HTML markup
 ```
 
-<br/>
 
 ## Result
 

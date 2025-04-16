@@ -17,7 +17,6 @@ historyDescription: The meta property categoryDescription provides a brief descr
 **Scope of influence:**
 ![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-description.png)
 
-<br/>
 
 ## [Description](description)
 
@@ -25,14 +24,12 @@ The meta property `categoryDescription` is used to provide a brief description o
 This description is displayed along with the article title (`categoryName`) and helps users quickly understand the content and value of the article.
 The `categoryDescription` property plays an important role in attracting users' attention and improving their interaction with the documentation.
 
-<br/>
 
 ### [Main Functions](basic-functions)
 
 - **Providing a brief description:** Allows you to add a short text describing the main idea or content of the article, helping users understand what to expect from the article.
 - **Improving user experience:** Helps users find the necessary information faster, making site navigation more intuitive and convenient.
 
-<br/>
 
 ### [How It Works with Other Meta Properties](with-other-properties)
 
@@ -42,34 +39,29 @@ The `categoryDescription` property plays an important role in attracting users' 
 - **`categoryIcon`:** An icon displayed next to the article title. In combination with `categoryDescription`, it makes the representation of the article more intuitive.
 - **`published`:** Determines the visibility of the article on the main page and other interface elements.
 
-<br/>
 
 ### [Important Notes](notes)
 
 - **Mandatory:** `categoryDescription` is not a mandatory property. However, its use is recommended to enhance the perception of the article on the main page.
 - **Text Length:** It is recommended to be concise - usually up to 25 characters, so the description is fully displayed and easily readable.
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **To Attract Attention:** To engage users and encourage them to read the article.
 - **To Clarify Content:** When the article title (`categoryName`) may not be informative enough on its own.
 
-<br/>
 
 ### [Usage Tips](advice)
 
 - **Adapt to the Audience:** Consider the level of preparation and interests of your target audience when composing the description.
 - **Be Specific:** The description should accurately reflect the content of the article and the benefit the user will receive.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `categoryDescription` meta property is an important tool for improving the presentation of articles in sections on the main documentation page. It helps users quickly understand what each article offers and make a decision about reading it.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -95,7 +87,6 @@ Welcome! In this guide, we will show you how to quickly set up and start working
 
 **`categoryDescription`:** "Start using the product in minutes" provides a brief and attention-grabbing description of the article.
 
-<br/>
 
 ### Example 2: Article in the `faq` section
 

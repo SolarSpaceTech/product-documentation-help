@@ -18,13 +18,11 @@ historyDescription: The meta property categoryIcon adds an icon to the article o
 ![Property Influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-icon.png)
 
 
-<br/>
 
 ## [Description](description)
 
 The meta property `categoryIcon` is used to specify an icon that will be displayed next to the article title in a specific section on the main page of the site. This property allows visually highlighting articles, making them more attractive and recognizable to users.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -32,7 +30,6 @@ The meta property `categoryIcon` is used to specify an icon that will be display
 - **Enhanced navigation:** Helps users find the desired articles faster through associative images.
 - **Branding:** Allows the use of branded icons or symbols that correspond to the theme of the article or the company's style.
 
-<br/>
 
 ### [How It Works with Other Meta Properties](with-other-properties)
 
@@ -41,7 +38,6 @@ The meta property `categoryIcon` is used to specify an icon that will be display
 - **`categoryDescription`:** A brief description of the article in the section.
 - **`categoryOrder`:** Determines the order of displaying the article within the section.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -50,7 +46,6 @@ The meta property `categoryIcon` is used to specify an icon that will be display
 - **Icon size:** It is recommended to use icons of optimal size for correct display and page loading speed.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
@@ -58,7 +53,6 @@ The meta property `categoryIcon` is used to specify an icon that will be display
 - **Attention Grabbing:** To draw users' attention to specific articles in a section.
 - **Content Branding:** When using branded icons that match the company's style or the article's theme.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -69,7 +63,6 @@ The meta property `categoryIcon` is used to specify an icon that will be display
 - **Consistent Style:** Maintain a consistent style of icons throughout the documentation.
 - **Accessibility:** Ensure that icons are understandable and distinguishable for all users.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
@@ -77,7 +70,6 @@ The `categoryIcon` meta property is a useful tool for enhancing the visual repre
 It allows adding icons to articles in sections, which can increase user engagement and improve navigation.
 Proper use of icons makes the interface more intuitive and appealing.
 
-<br/>
 
 ## [Usage Examples](examples)
 
@@ -102,7 +94,6 @@ We offer a wide range of cloud services for your business...
 
 In this example, **`categoryIcon`:** Specifies the path to the icon `/icons/cloud.svg`, which will be displayed next to the title "Cloud Solutions" in the `services` section on the homepage.
 
-<br/>
 
 ### Example 2: Article Without an Icon
 

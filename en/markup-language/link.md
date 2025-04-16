@@ -11,7 +11,6 @@ historyDescription: Usage in Markdown Markup
 # Links
 This section covers links and how to use them.
 
-<br/>
 
 ## Description
 To create a link, use the syntax:
@@ -25,7 +24,6 @@ To create a link, use the syntax:
 If the path includes the full URL including the `http` or `https` protocols, a new browser tab will be opened,
 otherwise, the navigation will occur within the current tab.
 
-<br/>
 
 ## Usage Example
 
@@ -33,7 +31,6 @@ otherwise, the navigation will occur within the current tab.
 [Wikipedia](https://en.wikipedia.org/wiki "Hidden link text")
 ```
 
-<br/>
 
 ## Result
 

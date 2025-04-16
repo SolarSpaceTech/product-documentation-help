@@ -17,13 +17,11 @@ historyDescription: The meta-property historyName sets the title of the article 
 **Scope of influence:**
 ![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-name.png)
 
-<br/>
 
 ## [Description](description)
 
 The meta property `historyName` is used to set the title of the link to the article in the visit history block in the documentation. This block displays the last articles visited by the user, providing quick access to previously viewed material. `historyName` helps users easily identify articles by clear and informative names in the history.
 
-<br/>
 
 ### [Basic Functions](basic-functions)
 
@@ -31,14 +29,12 @@ The meta property `historyName` is used to set the title of the link to the arti
 - **Improving navigation:** Helps users quickly find and return to previously viewed articles.
 - **Personalizing the experience:** Allows you to customize the displayed article title in the history independently of its main name in the menu or header.
 
-<br/>
 
 ### [How it works with other meta properties](with-other-properties)
 
 - **With `historyDescription`:** Provides a brief description of the article in the visit history block, complementing `historyName`.
 - **With `title` and `displayName`:** `historyName` may differ from `title` and `displayName`, allowing you to set an alternative title for the visit history.
 
-<br/>
 
 ### [Important Notes](notes)
 
@@ -47,14 +43,12 @@ The meta property `historyName` is used to set the title of the link to the arti
 - **Language and style:** Use clear and context-appropriate names to facilitate users in recognizing the article in the history.
 
 
-<br/>
 
 ### [When to Use](when-to-use)
 
 - **For customizing the name:** When you want the article title in the visit history to be different from `displayName` or `title`.
 - **For providing context:** If `displayName` is too short or does not fully reflect the content, `historyName` can provide a more informative title.
 
-<br/>
 
 ### [Usage Tips](advice)
 
@@ -65,13 +59,11 @@ The meta property `historyName` is used to set the title of the link to the arti
 - **Conciseness:** Aim for short and clear titles that display well in the interface.
 - **Relevance:** Update `historyName` if the content of the article has significantly changed.
 
-<br/>
 
 ## [Conclusion](conclusion)
 
 The `historyName` meta property is a useful tool for improving navigation in documentation, allowing customization of displayed article names in the visit history block. This contributes to a more convenient and personalized user experience, making it easier for them to return to previously viewed materials. Proper use of `historyName` enhances the efficiency of interacting with documentation and improves the overall impression of using the site.
 
-<br/>
 
 ## [Usage Examples](examples)
 
