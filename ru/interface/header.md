@@ -1,6 +1,5 @@
 ---
 id: 7
-seoTitle: Шапка документации - Интерфейс документации
 displayName: Шапка
 order: 20
 published: true
@@ -15,6 +14,7 @@ categoryName: Шапка документации
 categoryDescription: Шапка сайта предоставляет быстрый доступ к ключевым разделам, улучшая навигацию и настройку через мета свойства.
 categoryOrder: 1
 categoryIcon: https://img.solarspace.pro/docs/microchip.svg
+seoTitle: Шапка документации - Интерфейс документации
 ---
 
 # Шапка документации
@@ -25,7 +25,6 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 
 ![Шапка](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header.png)
 
-<br/>
 
 ## [Основные функции](basic-functions)
 
@@ -35,7 +34,6 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 - **Темизация:** Предоставляет пользователю возможность переключаться между темной и светлой темой.
 - **Язык:** Даёт возможность выбирать язык отображения контента.
 
-<br/>
 
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
@@ -45,7 +43,6 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
   ![Влияние cвойства headerOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-order.png)
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая шапку.
 
-<br/>
 
 ## [Влияние мета свойств](impact-of-meta-properties)
 
@@ -53,7 +50,6 @@ categoryIcon: https://img.solarspace.pro/docs/microchip.svg
 - **Порядок ссылок:** Ссылки в шапке сортируются по возрастанию значения `headerOrder`.
 - **Видимость статьи:** Если `published` установлено в `false`, статья не будет отображаться, независимо от других мета свойств.
 
-<br/>
 
 ## [Пошаговое руководство по настройке](step-by-step-setup-guide)
 
@@ -93,7 +89,6 @@ headerOrder: 10
 - Проверьте корректность названий ссылок и их соответствие содержанию.
 - Убедитесь, что дизайн шапки не нарушен из-за длинных названий или большого количества ссылок.
 
-<br/>
 
 ## [Рекомендации](recommendations)
 
@@ -117,7 +112,6 @@ headerOrder: 10
 - **Проверка на разных устройствах:** Убедитесь, что шапка корректно отображается на десктопах, планшетах и смартфонах.
 - **Адаптивность:** Шапка должна быть удобной для использования на экранах разного размера.
 
-<br/>
 
 ## [Примеры использования](examples)
 
@@ -197,7 +191,6 @@ headerOrder: 50
 - Вопросы
 - Поддержка
 
-<br/>
 
 ### Пример 2: Шапка с акцентом на новые возможности
 
@@ -218,14 +211,12 @@ headerOrder: 5
 
 - Ссылка "Что нового" будет отображаться первой в шапке, привлекая внимание пользователей к последним обновлениям.
 
-<br/>
 
 ## [Заключение](conclusion)
 
 Шапка является важным элементом, влияющим на удобство использования. Правильная настройка шапки с помощью мета свойств `headerName` и `headerOrder` позволяет
 обеспечить быстрый доступ к ключевым разделам и улучшить навигацию.
 
-<br/>
 
 ## [Дополнительные ресурсы](additional-resources)
 

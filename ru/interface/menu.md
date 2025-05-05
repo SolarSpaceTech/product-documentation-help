@@ -1,6 +1,5 @@
 ---
 id: 10
-seoTitle: Меню - Интерфейс документации
 displayName: Меню
 order: 40
 published: true
@@ -13,6 +12,7 @@ categoryName: FAQ
 categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
 categoryOrder: 4
 categoryIcon: https://img.solarspace.pro/docs/users.svg
+seoTitle: Меню - Интерфейс документации
 ---
 
 # Меню документации
@@ -22,7 +22,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 ![Меню](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/menu.png)
 
-<br/>
 
 ## [Основные функции](basic-functions)
 
@@ -31,7 +30,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 - **Ориентация:** Помогает пользователям понимать, где они находятся в структуре документации благодаря выделению текущего раздела или статьи.
 - **Доступность:** Делает всю документацию доступной из любой статьи документации.
 
-<br/>
 
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
@@ -43,7 +41,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 ![Влияние cвойства order](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/order.png)
 - **`published`:** Управляет видимостью раздела или статьи в меню и навигации. Если установлено в `false`, элемент не отображается.
 
-<br/>
 
 ## [Влияние мета свойств](impact-of-meta-properties)
 
@@ -52,7 +49,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 - `published` если установлено в `false`, раздел или статья не отображаются в меню и навигации. Вложенные элементы не будут отображаться,
 если родительский раздел имеет `published: false`.
 
-<br/>
 
 ## [Пошаговое руководство по настройке](step-by-step-setup-guide)
 
@@ -99,7 +95,6 @@ published: true
 - Сгенерируйте сайт и проверьте, что меню отображается корректно.
 - Убедитесь, что все ссылки работают и ведут к соответствующим разделам и статьям.
 
-<br/>
 
 ## [Рекомендации](recommendations)
 
@@ -108,7 +103,6 @@ published: true
 - **Уникальные значения `order`:** Присваивайте уникальные значения `order` внутри одного уровня меню для точного контроля порядка отображения.
 - **Планирование:** Заранее продумывайте структуру меню, чтобы избежать частых изменений и переупорядочивания.
 
-<br/>
 
 ## [Примеры использования](examples)
 
@@ -157,7 +151,6 @@ published: true
 ---
 ```
 
-<br/>
 
 ### Пример 2: Скрытие раздела из меню
 
@@ -173,7 +166,6 @@ published: false
 
 **Результат:** Раздел "Черновики" и все его статьи не отображаются в меню и навигации.
 
-<br/>
 
 ## [Заключение](conclusion)
 
@@ -181,7 +173,6 @@ published: false
 вы можете настроить меню в соответствии с потребностями аудитории, обеспечивая логичную структуру и последовательность. Внимательное планирование
 и реализация помогут создать легко используемый интерфейс.
 
-<br/>
 
 ## [Дополнительные ресурсы](additional-resources)
 

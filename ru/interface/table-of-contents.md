@@ -1,6 +1,5 @@
 ---
 id: 11
-seoTitle: Оглавление - Интерфейс документации
 displayName: Оглавление
 order: 60
 published: true
@@ -13,6 +12,7 @@ categoryName: Оглавление
 categoryDescription: Подвал документации улучшает навигацию, обеспечивая быстрый доступ к ключевым разделам через мета свойства.
 categoryOrder: 5
 categoryIcon: https://img.solarspace.pro/docs/users.svg
+seoTitle: Оглавление - Интерфейс документации
 ---
 
 # Оглавление
@@ -23,7 +23,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 ![Оглавление](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/table-of-contents.png)
 
-<br/>
 
 ## [Основные функции](basic-functions)
 
@@ -32,7 +31,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 - **Улучшение читаемости:** Делит длинные статьи на логичные части, облегчая процесс чтения и усвоения материала.
 - **Отслеживание положения пользователя:** Выделяет текущий раздел в оглавлении, показывая пользователю его место в структуре статьи.
 
-<br/>
 
 ## [Настройка с помощью Markdown-разметки](customization-using-Markdown-markup "Настройка MD-разметкой")
 
@@ -62,7 +60,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 ### Подподраздел 2.1
 ```
 
-<br/>
 
 ## [Влияние структуры заголовков на оглавление](impact-of-heading-structure)
 
@@ -82,7 +79,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 В этом случае оглавление не будет учитывать заголовок "Подраздел без основного заголовка", так как основной заголовок h1 находится не в начале документа.
 
-<br/>
 
 ## [Пошаговое руководство по настройке](step-by-step-setup-guide)
 
@@ -126,7 +122,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 Просмотрите сгенерированную статью, чтобы проверить корректность отображения оглавления и удобство навигации.
 
-<br/>
 
 ## [Рекомендации](recommendations)
 
@@ -139,7 +134,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 главное передать смысл заголовка в статье, чтобы не запутать пользователя `## [High-Level Design](hld "HLD")`.
 В статье отобразится `"High-Level Design"` в оглавлении будет `"HLD"`.
 
-<br/>
 
 ## [Примеры использования](examples)
 
@@ -214,7 +208,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 Заголовки: "Описание задачи", "Требования к подсистеме" и "Требования реализации" не будут включёны в оглавление, так как основной заголовок h1
 находится не в начале документа.
 
-<br/>
 
 ## [Заключение](conclusion)
 
@@ -222,7 +215,6 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 пользователей и способствует созданию структурированного и профессионального вида статьи. Правильная настройка заголовков в Markdown-разметке позволяет
 эффективно использовать оглавление, делая взаимодействие с документацией более интуитивным и удобным для пользователей.
 
-<br/>
 
 ## [Дополнительные ресурсы](additional-resources)
 
