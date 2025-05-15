@@ -1,7 +1,7 @@
 ---
 id: 56
 displayName: Файловая структура
-order: 10
+order: 5
 published: true
 historyName: Файловая структура
 historyDescription: Обобщающий обзор организации файлов, разделов, статей и языков в документации.
