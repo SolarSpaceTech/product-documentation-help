@@ -1,7 +1,7 @@
 ---
 id: 1
 displayName: Создание статей
-order: 20
+order: 40
 published: true
 historyName: Создание статей
 historyDescription: Руководство по созданию статей с мета данными для генерации интерфейса в приложении.
