@@ -197,7 +197,6 @@ This is the first article that introduces the documentation approach.
 ```
 
 
-### Статья 2: Контакты / Contacts
 ### [Статья 2: Контакты / Contacts](article-2)
 
 Создадим файлы:
@@ -661,6 +660,7 @@ Thanks for reading the documentation! This could be a final call to action.
 - Меню:
 
 ```
+(Руководства / Guides)
   ├── (Основы / Basics)
   |     └── (Введение / Introduction)
   └── (Продвинутые темы / Advanced)
@@ -668,6 +668,7 @@ Thanks for reading the documentation! This could be a final call to action.
 ```
 
 - Шапка сайта (ru/en):
+  - Главная / Home
   - Введение / Introduction
   - Контакты / Contacts
 
