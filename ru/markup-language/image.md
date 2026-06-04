@@ -34,68 +34,68 @@ seoTitle: Изображения - Markdown-разметка
 
 ## Пример использования
 ```md
-![image (25%)](https://placehold.co/400x625|https://placehold.co/800x1250 "Some text")
+![image (25%)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png|https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/800x1250.png "Some text")
 
-![image (25%|inline-right)](https://placeholder.apptor.studio/1600/2500/product1.png "Some text")
+![image (25%|inline-right)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
-![image (25%|right)](https://placeholder.apptor.studio/1600/2500/product2.png "Some text")
+![image (25%|right)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image (25%|inline-left)](https://placeholder.apptor.studio/1600/2500/product3.png "Some text")
+![image (25%|inline-left)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image (25%|left)](https://placeholder.apptor.studio/1600/2500/product4.png "Some text")
+![image (25%|left)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image (50%|center)](https://placeholder.apptor.studio/1600/2500/product5.png "Some text")
+![image (50%|center)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image](https://placeholder.apptor.studio/1600/2500/product6.png "Some text")
+![image](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 ```
 
 
 ## Результат
 
-![image (25%)](https://placeholder.apptor.studio/400/625/product0.png|https://placeholder.apptor.studio/800/1250/product0.png "Some text")
+![image (25%)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/800x1250.png "Some text")
 
-![image (25%|inline-right)](https://placeholder.apptor.studio/1600/2500/product1.png "Some text")
+![image (25%|inline-right)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
-![image (25%|right)](https://placeholder.apptor.studio/1600/2500/product2.png "Some text")
+![image (25%|right)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image (25%|inline-left)](https://placeholder.apptor.studio/1600/2500/product3.png "Some text")
+![image (25%|inline-left)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image (25%|left)](https://placeholder.apptor.studio/1600/2500/product4.png "Some text")
+![image (25%|left)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image (50%|center)](https://placeholder.apptor.studio/1600/2500/product5.png "Some text")
+![image (50%|center)](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
 
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
-![image](https://placeholder.apptor.studio/1600/2500/product6.png "Some text")
+![image](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/1600x2500.png "Some text")
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque, nostrum veritatis! Architecto beatae delectus eum exercitationem illum laboriosam nemo quas.
