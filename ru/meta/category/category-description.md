@@ -17,7 +17,7 @@ historyDescription: Мета-свойство categoryDescription задаёт �
 **Максимальное количество символов:** `40`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-description.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/category-description.png)
 
 
 ## [Описание](description)

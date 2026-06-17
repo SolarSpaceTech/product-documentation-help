@@ -15,7 +15,7 @@ seoTitle: Описание footerOrder - Подвал - Мета свойств�
 **Тип данных:** Число
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-order.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/footer-order.png)
 
 
 ## [Описание](description)

@@ -15,7 +15,7 @@ historyDescription: The meta property headerOrder defines the order of displayin
 **Data type:** Number
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-order.png)
+![Property influence](https://img.solarspace.pro/docs/docs_img/header-order.png)
 
 
 ## [Description](description)

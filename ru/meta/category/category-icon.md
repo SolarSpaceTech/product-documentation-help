@@ -15,7 +15,7 @@ historyDescription: Мета-свойство categoryIcon добавляет и
 **Тип данных:** Строка (URL или путь к изображению)
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-icon.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/category-icon.png)
 
 
 ## [Описание](description)

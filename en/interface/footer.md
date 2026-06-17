@@ -21,7 +21,7 @@ categoryIcon: https://img.solarspace.pro/docs/users.svg
 
 The documentation footer is one of the key elements of the interface. It provides users with quick access to main sections and functions, improves navigation, and contributes to the overall look of the documentation. In this article, we will examine in detail the role of the documentation footer, ways to customize it using meta properties, and examples of its usage.
 
-![Footer](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer.png)
+![Footer](https://img.solarspace.pro/docs/docs_img/footer.png)
 
 
 ## [Basic Functions](basic-functions)
@@ -33,10 +33,10 @@ The documentation footer is one of the key elements of the interface. It provide
 ## [Customization Using Meta Properties](customization-using-meta-properties)
 
 - **`footerName`:** Sets the name of the link to the article in the footer.
-  ![Impact of the footerName property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-name.png)
+  ![Impact of the footerName property](https://img.solarspace.pro/docs/docs_img/footer-name.png)
 
 - **`footerOrder`:** Determines the order in which the link is displayed in the footer.
-  ![Impact of the footerOrder property](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-order.png)
+  ![Impact of the footerOrder property](https://img.solarspace.pro/docs/docs_img/footer-order.png)
 
 - **`published`:** Controls the visibility of the article in all interface elements, including the footer.
 

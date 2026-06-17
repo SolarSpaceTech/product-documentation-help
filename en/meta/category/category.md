@@ -17,7 +17,7 @@ historyDescription: The meta-property category defines the section on the main p
 **Possible values:** values from the list specified in the `categories` property description in `metadata.md`
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
+![Property influence](https://img.solarspace.pro/docs/docs_img/category.png)
 
 
 ## [Description](description)

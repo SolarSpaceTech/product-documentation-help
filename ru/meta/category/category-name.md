@@ -17,7 +17,7 @@ historyDescription: Мета-свойство categoryName задает назв
 **Максимальное количество символов:** `32`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-name.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/category-name.png)
 
 
 ## [Описание](description)

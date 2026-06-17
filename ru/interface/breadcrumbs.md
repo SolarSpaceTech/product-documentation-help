@@ -23,7 +23,7 @@ seoTitle: Хлебные крошки - Интерфейс документац�
 текущей статьи. Этот элемент интерфейса помогает пользователям понять структуру документации. Он отображается в верхней
 части страницы между шапкой и статьёй.
 
-![Хлебные крошки](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/breadcrumbs.png)
+![Хлебные крошки](https://img.solarspace.pro/docs/docs_img/breadcrumbs.png)
 
 
 ## [Основные функции](basic-functions)
@@ -38,7 +38,7 @@ seoTitle: Хлебные крошки - Интерфейс документац�
 Для настройки хлебных крошек в документации используются следующие мета свойства:
 
 - **`displayName`:** Определяет название раздела или статьи, отображаемое в хлебных крошках.
-  ![Влияние cвойства displayName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/display-name.png)
+  ![Влияние cвойства displayName](https://img.solarspace.pro/docs/docs_img/display-name.png)
 
 
 ## [Влияние мета свойств](impact-of-meta-properties)

@@ -15,7 +15,7 @@ seoTitle: Описание order - Общее - Мета свойства
 **Тип данных:** Число
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/order.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/order.png)
 
 
 ## [Описание](description)

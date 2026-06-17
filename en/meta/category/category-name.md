@@ -15,7 +15,7 @@ historyDescription: The meta property categoryName sets the title of the article
 **Data type:** String
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-name.png)
+![Property influence](https://img.solarspace.pro/docs/docs_img/category-name.png)
 
 
 

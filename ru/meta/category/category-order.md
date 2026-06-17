@@ -15,7 +15,7 @@ historyDescription: Мета-свойство categoryOrder задает пор�
 **Тип данных:** Число
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-order.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/category-order.png)
 
 
 ## [Описание](description)

@@ -23,7 +23,7 @@ seoTitle: Подвал - Интерфейс документации
 улучшает навигацию и способствует созданию целостного облика документации. В этой статье мы подробно рассмотрим роль подвала документации, способы её настройки
 с помощью мета свойств и примеры использования.
 
-![Подвал](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer.png)
+![Подвал](https://img.solarspace.pro/docs/docs_img/footer.png)
 
 
 ## [Основные функции](basic-functions)
@@ -35,10 +35,10 @@ seoTitle: Подвал - Интерфейс документации
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 - **`footerName`:** Задаёт название ссылки на статью в подвале.
-  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-name.png)
+  ![Влияние cвойства footerName](https://img.solarspace.pro/docs/docs_img/footer-name.png)
 
 - **`footerOrder`:** Определяет порядок отображения ссылки в подвале.
-  ![Влияние cвойства footerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/footer-order.png)
+  ![Влияние cвойства footerName](https://img.solarspace.pro/docs/docs_img/footer-order.png)
 
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая подвал.
 

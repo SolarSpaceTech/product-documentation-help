@@ -21,7 +21,7 @@ seoTitle: История посещений - Интерфейс докумен�
 пользователем статей или разделов. Этот блок позволяет быстро возвращаться к ранее изученному контенту, улучшая навигацию и повышая удобство
 использования документации. Располагается в нижней части страницы, обеспечивая легкий доступ к прошлым просмотрам без необходимости искать их заново.
 
-![История посещений](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history.png)
+![История посещений](https://img.solarspace.pro/docs/docs_img/history.png)
 
 
 ## [Основные функции](basic-functions)
@@ -39,9 +39,9 @@ seoTitle: История посещений - Интерфейс докумен�
 
 - **`id`**: Задаёт уникальный идентификатор статьи, который хранится на стороне клиента в истории просмотров.
 - **`historyName`**: Задает название статьи в блоке истории посещений.
-  ![Влияние cвойства historyName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-name.png)
+  ![Влияние cвойства historyName](https://img.solarspace.pro/docs/docs_img/history-name.png)
 - **`historyDescription`**: Предоставляет краткое описание статьи в блоке истории посещений.
-  ![Влияние cвойства historyDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-description.png)
+  ![Влияние cвойства historyDescription](https://img.solarspace.pro/docs/docs_img/history-description.png)
 - **`published`**: Управляет видимостью статьи во всех элементах интерфейса, включая блок истории посещений.
 
 ### Пример мета данных для статьи:

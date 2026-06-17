@@ -23,7 +23,7 @@ seoTitle: Шапка документации - Интерфейс докуме�
 улучшает навигацию и способствует созданию целостного облика документации. В этой статье мы подробно рассмотрим роль шапки документации, способы её настройки
 с помощью мета свойств и примеры использования.
 
-![Шапка](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header.png)
+![Шапка](https://img.solarspace.pro/docs/docs_img/header.png)
 
 
 ## [Основные функции](basic-functions)
@@ -38,9 +38,9 @@ seoTitle: Шапка документации - Интерфейс докуме�
 ## [Настройка с помощью мета свойств](customization-using-meta-properties)
 
 - **`headerName`:** Задаёт название ссылки на статью в шапке.
-  ![Влияние cвойства headerName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-name.png)
+  ![Влияние cвойства headerName](https://img.solarspace.pro/docs/docs_img/header-name.png)
 - **`headerOrder`:** Определяет порядок отображения ссылки в шапке.
-  ![Влияние cвойства headerOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/header-order.png)
+  ![Влияние cвойства headerOrder](https://img.solarspace.pro/docs/docs_img/header-order.png)
 - **`published`:** Управляет видимостью статьи во всех элементах интерфейса, включая шапку.
 
 

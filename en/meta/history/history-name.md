@@ -15,7 +15,7 @@ historyDescription: The meta-property historyName sets the title of the article 
 **Data type:** String
 
 **Scope of influence:**
-![Property influence](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-name.png)
+![Property influence](https://img.solarspace.pro/docs/docs_img/history-name.png)
 
 
 ## [Description](description)

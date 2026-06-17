@@ -17,7 +17,7 @@ seoTitle: Описание historyDescription - История - Мета сво
 **Максимальное количество символов:** `170`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/history-description.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/history-description.png)
 
 
 ## [Описание](description)

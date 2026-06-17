@@ -21,7 +21,7 @@ seoTitle: Секции главной - Интерфейс документац�
 информации, облегчая пользователям поиск и доступ к наиболее важным разделам и статьям. Каждая секция может содержать одну или несколько статей, которые связаны
 мета свойством `categories` языкового раздела и свойством `category` определенной статьи.
 
-![Секции главной страницы](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/main-page-blocks.png)
+![Секции главной страницы](https://img.solarspace.pro/docs/docs_img/main-page-blocks.png)
 
 
 ## [Основные функции](basic-functions)
@@ -54,16 +54,16 @@ categories:
   - FAQ
 ---
 ```
-![Влияние свойства category](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
+![Влияние свойства category](https://img.solarspace.pro/docs/docs_img/category.png)
 - **`category`**: Определяет секцию на главной странице, в которой будет отображаться статья. Примеры: `Начало работы`, `Сервисы`, `Настройки ресурсов`, `FAQ`.
 - **`categoryName`**: Название статьи в секции на главной странице.
-![Влияние свойства categoryName](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-name.png)
+![Влияние свойства categoryName](https://img.solarspace.pro/docs/docs_img/category-name.png)
 - **`categoryDescription`**: Краткое описание статьи для отображения в секции.
-![Влияние свойства categoryDescription](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-description.png)
+![Влияние свойства categoryDescription](https://img.solarspace.pro/docs/docs_img/category-description.png)
 - **`categoryOrder`**: Порядок отображения статьи внутри секции.
-![Влияние свойства categoryOrder](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-order.png)
+![Влияние свойства categoryOrder](https://img.solarspace.pro/docs/docs_img/category-order.png)
 - **`categoryIcon`**: Иконка, отображаемая рядом с названием статьи в секции.
-![Влияние свойства categoryIcon](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category-icon.png)
+![Влияние свойства categoryIcon](https://img.solarspace.pro/docs/docs_img/category-icon.png)
 
 ### Пример мета данных для статьи:
 

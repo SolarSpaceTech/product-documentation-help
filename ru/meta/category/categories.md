@@ -17,7 +17,7 @@ seoTitle: Описание categories - Общее - Мета свойства
 **Максимальное количество символов в категории:** `18`
 
 **Область влияния:**
-![Влияние cвойства](https://raw.githubusercontent.com/SolarSpaceTech/product-documentation-help/refs/heads/main/ru/images/category.png)
+![Влияние cвойства](https://img.solarspace.pro/docs/docs_img/category.png)
 
 
 ## [Описание](description)
